@@ -10,6 +10,7 @@ library(sas7bdat)
 library(SASxport)
 library(ggplot2)
 library(TraMineR)
+library(readxl)
 
 #--#PARAMETERS#--#
 
@@ -127,11 +128,11 @@ dream_weeks <- expand.grid(
 dream_weeks <- paste0('y_', dream_weeks$Var1, dream_weeks$Var2)
 
 #Indlæs dream koder og sandsynligheder
-dream_val <- c()
-dream_prob <- c()
+dreamprobs_df <- read_excel(file.path(mat_path, "dream_prob-y.xlsx"))
+dream_val <- dreamprobs_df$ycode
+dream_prob <- dreamprobs_df$prob
 
 # Indlæs eksisterende PNR
-library(haven)
 datap <- file.path("D:", "OneDrive", "OneDrive - Aalborg Universitet", 
                    "CALDISS_projects", "reg_sim", "simdata", "simuleret data",
                    "stata", sep = "/")
@@ -140,3 +141,9 @@ dream_df <- read_dta(file.path(datap, "dream_sim_2015.dta"))
 
 # Dan sekvenser
 dream_y <- data.frame(seqgen(length(dream_df$PNR), length(dream_weeks), dream_val, dream_prob))
+colnames(dream_y) <- dream_weeks
+dream_y$PNR <- dream_df$PNR
+dream_y <- select(dream_y, PNR, everything())
+
+# Gem data
+write_sas(dream_y, file.path(data_outpath, "dream_sim_y_97-15.sas7bdat"))
