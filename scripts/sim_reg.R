@@ -11,14 +11,11 @@ library(SASxport)
 library(ggplot2)
 library(TraMineR)
 
-#--#PARAMETER#--#
+#--#PARAMETERS#--#
 
 #File paths#
-mat_path <- file.path('D:', 'R_projects', 'reg_sim', sep = "/")
-#mat_path <- "//ADM.aau.dk/Users/kgk/Documents/Programmering/R projekter/reg_sim/"
-
-save_path <- file.path('D:', 'R_projects', 'reg_sim', 'simdata', sep = "/")
-#save_path <- "//ADM.aau.dk/Users/kgk/Documents/Programmering/R projekter/reg_sim/simdata/"
+mat_path <- file.path('~', 'material', sep = "/")
+data_outpath <- file.path('~', 'simdata', sep = "/")
 
 #Number of observations#
 act_n <- 12967
