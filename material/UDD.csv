@@ -1,0 +1,3317 @@
+﻿KOTRE
+0 : Afbrudt
+1 : Ingen uddannelse ivu
+1006 : 6. klasse
+1007 : 7. klasse
+1008 : 8. klasse
+1009 : 9. klasse
+1010 : 10. klasse
+1011 : 11. klasse
+1021 : 1. real
+1022 : 2. real
+1023 : 3. real
+1031 : 1. hf
+1032 : 2. hf
+1040 : 1.g, matematisk-sproglig fælleslinie
+1041 : 1.g, matematisk linie
+1042 : 1.g, sproglig linie
+1049 : 2.g, matematisk-sproglig fælleslinie
+1051 : 2.g, matematisk-fysisk linie
+1052 : 2.g, matematisk-naturfaglig linie
+1061 : 2.g, nysproglig linie
+1062 : 2.g, klassisksproglig linie
+1064 : 2.g, musiksproglig linie
+1069 : 3.g, matematisk-sproglig fælleslinie
+1070 : 3.g, matematisk linie una
+1071 : 3.g, matematisk-fysisk linie
+1072 : 3.g, matematisk-naturfaglig linie
+1073 : 3.g, matematisk-samfundsfaglig linie
+1080 : 3.g, sproglig linie una
+1081 : 3.g, nysproglig linie
+1082 : 3.g, klassisksproglig linie
+1083 : 3.g, musiksproglig linie
+1084 : 3.g, musiksproglig linie
+1090 : Uoplyst (kendt i elevregistret)
+1095 : Uoplyst (indvandrernes uddannelse)
+1097 : Anden dansk studentereksamen
+1098 : Udenlandsk studentereksamen
+1099 : Uoplyst (ukendt i elevregistret)
+1100 : Børnehaveklasse
+1101 : 1. klasse
+1102 : 2. klasse
+1103 : 3. klasse
+1104 : 4. klasse
+1105 : 5. klasse
+1106 : 6. klasse
+1107 : 7. klasse
+1108 : 8. klasse
+1109 : 9. klasse
+1110 : 10. klasse
+1111 : 11. klasse
+1114 : Grundskole til og med 6. kl
+1115 : Grundskole 7.-10. kl.
+1116 : Grundskole 7.-9. kl.
+1117 : Grundskole 10.-11. kl.
+1120 : Børnehaveklasse
+1121 : 1. real
+1122 : 2. real
+1123 : 3. real
+1140 : 1.g, matematisk-sproglig fælleslinie
+1141 : 1.g, matematisk linie
+1142 : 1.g, sproglig linie
+1143 : 2.g, matematisk linie
+1144 : 2.g, sproglig linie
+1145 : 3.g, matematisk linie
+1146 : 3.g, sproglig linie
+1149 : 2.g, matematisk-sproglig fælleslinie
+1151 : 2.g, matematisk-fysisk linie
+1152 : 2.g, matematisk-naturfaglig linie
+1153 : 2.g, matematisk-samfundsfaglig linie
+1154 : 2.g, matematisk-musisk linie
+1155 : 2.g, matematisk forsøgslinie
+1161 : 2.g, nysproglig linie
+1162 : 2.g, klassisksproglig linie
+1163 : 2.g, samfundssproglig linie
+1164 : 2.g, musiksproglig linie
+1165 : 2.g, sproglig forsøgslinie
+1169 : 3.g, matematisk-sproglig fælleslinie
+1171 : 3.g, matematisk-fysisk linie
+1172 : 3.g, matematisk-naturfaglig linie
+1173 : 3.g, matematisk-samfundsfaglig linie
+1174 : 3.g, matematisk-musisk linie
+1175 : 3.g, matematisk forsøgslinie
+1179 : Matematisk gymnasium
+1181 : 3.g, nysproglig linie
+1182 : 3.g, klassisksproglig linie
+1183 : 3.g, samfundssproglig linie
+1184 : 3.g, musiksproglig linie
+1185 : 3.g, sproglig forsøgslinie
+1189 : Sproglig gymnasium
+1190 : Gymnasial indslusning for flygtninge GIF
+1195 : Gymnasial suppleringskursus GSK
+1196 : 1.g
+1197 : 2.g
+1198 : 3.g
+1199 : Stx
+1206 : 6. klasse
+1207 : 7. klasse
+1208 : 8. klasse
+1209 : 9. klasse
+1210 : 10. klasse
+1301 : Dansk 1
+1302 : Dansk 2
+1303 : Dansk 3
+1305 : Dansk uoplyst
+1351 : Erhvervsintroduktion, kurser for unge
+1352 : Erhvervsintroduktion, langtidsledige
+1353 : Erhvervsintroduktion, kurser for kvinder
+1354 : Erhvervsintroduktion, eifu/eifl-kurser
+1355 : Erhvervsintroduktion, erhv.dk indvandrere
+1356 : Erhvervsintroduktion, kurser for 10.kl.
+1357 : Erhvervsintroduktion, specialklasser
+1359 : Erhvervsintroduktion, inspirationskurser
+1365 : Kreativ basis, grafisk åben uddannelse (GÅU)
+141 : Formidl.-erhvervsspr. una - udvekslingstud. (kort vidg.)
+1410 : 1-årigt grundskolekursus
+1423 : 1-årigt realkursus
+144 : Samfundsfaglig una - udvekslingstud. (kort vidg.)
+145 : Teknisk una - udvekslingstud. (kort vidg.)
+146 : Levnedsm./husholdn. una - udvekslingstud. (kort vidg.)
+148 : Transport mv.una - udvekslingstud. (kort vidg.)
+150 : Pædagogisk una - udvekslingstud. (ml.lang vidg.)
+1509 : 1. år, grundsskolekursus 2-årigt
+151 : Formidl.-erhvervsspr. una- udvekslingstud. (ml.lang vidg.)
+1510 : 2. år, grundsskolekursus 2-årigt
+152 : Kunstnerisk una - udvekslingstud. (ml.lang vidg.)
+1522 : 1. år, realkursus 2-årigt
+1523 : 2. år, realkursus 2-årigt
+153 : Naturvidenskabuna - udvekslingstud. (ml.lang vidg.)
+1531 : 1. hf
+1532 : 2. hf
+1533 : 3. hf.
+1535 : 1. hf (3-årig)
+1536 : 2. hf (3-årig)
+1537 : 3. hf
+1539 : Hf
+154 : Samfundsvidensk.una - udvekslingstud. (ml.lang vidg.)
+1540 : 3-årig hf
+1541 : 1. hf
+1542 : 2. hf
+1543 : 2-årig hf
+1549 : Hf-enkeltfag
+155 : Teknisk una - udvekslingstud. (ml.lang vidg.)
+1551 : 1. år, studenterkursus matematik-fysik
+1552 : 1. år, studenterkursus matematik-naturfag
+1553 : 1. år, studenterkursus matematik-samfundsfag
+1555 : 1. år, studenterkursus matematik-forsøg
+1559 : 1. år, studenterkursus matematik
+156 : Levnedsm./ernæring una - udvekslingstud. (ml.lang vidg.)
+1561 : 1. år, studenterkursus nysproglig
+1562 : 1. år, studenterkursus sproglig
+1563 : 1. år, studenterkursus samfundsfag-sproglig
+1565 : 1. år, studenterkursus sproglig-forsøg
+1569 : 1. år, studenterkursus sproglig
+159 : Sundhed una - udvekslingstud. (ml.lang vidg.)
+161 : Humanistisk una - udvekslingstud. (bachelor)
+162 : Kunstnerisk una - udvekslingstud. (bachelor)
+163 : Naturvidenskab una - udvekslingstud. (bachelor)
+164 : Samfundsvidenskab una - udvekslingstud. (bachelor)
+165 : Teknisk una- udvekslingstud. (bachelor)
+1650 : 1. år, studenterkursus
+1651 : 2. år, studenterkursus
+1652 : Studenterkursus
+167 : Jordbrugsvidenskab una - udvekslingstud. (bachelor)
+1671 : 2. år, studenterkursus matematik-fysik
+1672 : 2. år, studenterkursus matematik-naturfag
+1673 : 2. år, studenterkursus matematik-samfundsfag
+1679 : 2. år, studenterkursus matematik
+1681 : 2. år, studenterkursus nysproglig
+1682 : 2. år, studenterkursus klassisksproglig
+1683 : 2. år, studenterkursus samfundsfag-sproglig
+1689 : 2. år, studenterkursus sproglig
+170 : Pædagogisk una - udvekslingstud.(lang vidg.)
+171 : Humanistisk-teologisk una - udvekslingstud. (lang vidg.)
+172 : Kunstnerisk una - udvekslingstud. (lang vidg.)
+1721 : 1. år, realkursus 3-årigt
+1722 : 2. år, realkursus 3-årigt
+1723 : 3. år, realkursus 3-årigt
+173 : Naturvidenskab una- udvekslingstud. (lang vidg.)
+174 : Samfundsvidenskab una - udvekslingstud. (lang vidg.)
+175 : Teknisk una - udvekslingstud. (lang vidg.)
+176 : Levnedsm./ernæring una - udvekslingstud. (lang vidg.)
+177 : Jordbrugsvidenskab una - udvekslingstud. (lang vidg.)
+179 : Sundhed una - udvekslingstud. (lang vidg.)
+1879 : Matematisk studenterkursus
+1889 : Sproglig studenterkursus
+1891 : 1.g, pre-IB
+1892 : 2.g, IB år 1
+1893 : 3.g, IB år 2
+1894 : Dansk-tysk studentereksamen
+1895 : Dansk-Fransk Baccalauréat
+1899 : IB, International baccalaureate
+1901 : Produktionsskole
+1984 : Vuggestue mv., førskoleuddannelse
+1985 : Børnehave mv., førskoleuddannelse
+2 : Ikke igang
+200 : 1-6 år ivu
+2003 : Skibskok, grundkursus
+2004 : Grundlæggende maritim uddannelse
+2005 : Skibsassistent, grundkursus modul 1+2
+2007 : Befaren matros, afslutningskursus
+2008 : Befaren skibsassistent, modul 3
+2009 : Befaren motormand, afslutningskursus
+2010 : Skibskok, afslutningskursus
+2013 : Skibsassistent med metaluddannelse
+2015 : Kystskipper
+2016 : Kystskipper og fiskeskipper af 3.grad
+2017 : Sætteskipper og fiskeskipper af 1.grad
+2018 : Erhvervsfisker
+2021 : Sætteskipper
+2022 : Fiskeskipper af 3. grad
+2027 : Fiskeskipper af 1. grad
+2028 : Maritimt forberedelseskursus
+2029 : Juniorofficer, 1.teoridel
+205 : 7-8 år ivu
+210 : 9-10 år ivu
+215 : Studentereksamen mv., ivu
+220 : Pædagogik, ivu (amu)
+239 : Handel/kontor, ivu (amu)
+2401 : Efterskole una
+2411 : Husholdningskursus, alment
+2413 : Køkkenleder 1
+2414 : Husholdningstekniker
+2415 : Husholdningsskole, efteruddannelseskursus
+2417 : Husholdningsskole, andre kurser
+2419 : Køkkenleder 2
+2421 : Håndarbejdskursus
+2425 : Særlig tilrettelagt ungdomsuddannelse (STU)
+2428 : Daghøjskoler
+2431 : Ungdomshøjskolekursus, alment
+2432 : Ungdomshøjskolekursus, andre
+2441 : Folkehøjskolekursus, alment
+2442 : Folkehøjskolekursus, særlig gymnastik-/idrætskursus
+2443 : Folkehøjskolekursus, håndarbejde og sløjd
+2444 : Folkehøjskolekursus, forkursus sygepleje
+2445 : Folkehøjskolekursus, særlig tilrettelagt for handicappede
+2446 : Folkehøjskolekursus, pensionister
+2447 : Folkehøjskolekursus, andre
+2459 : Landmand faglært modul 1a
+2460 : Landmand faglært modul 1b
+2461 : Driftlederkursus, udvidet 5 mdr.
+2462 : Landmand, efteruddannelse
+2469 : Inseminør, kvæg
+2470 : Produktionsassistent landbrug
+2471 : Landbrugslærer, efteruddannelse
+2473 : Landbrugskurser, andre
+2475 : Mejeriteknolog
+2476 : Mejeriskolekurser, andre
+2477 : Gartnerskole, væksthus kursus
+2478 : Gartnerskole, planteskole kursus
+2479 : Gartnerskole, anlæg kursus
+2480 : Gartnerskole, frugtavl kursus
+2481 : Blomsterdekoratørkursus
+2483 : Gartnerskole, andre kurser
+2484 : Skovbrugskursus
+2485 : Landmand faglært modul 2
+2486 : Driftsleder grønt bevis
+2487 : Landbrugsskole, grundskole afkortet
+2488 : Gartner, driftslederkursus
+2489 : Landbrugets driftlederkursus
+2490 : Agrarøkonom
+2491 : Grønt diplom modul 4
+2492 : Landbrugets lederuddannelse
+2493 : Kombineret ungdomsuddannelse
+2508 : 8. klasse, efterskole
+2509 : 9. klasse, efterskole
+2510 : 10. klasse, efterskole
+2511 : 11. klasse, efterskole
+2515 : Efterskoler
+2516 : Efterskoler 8.-9. kl.
+2517 : Efterskoler 10.-11. kl.
+253 : Bygge/anlæg, ivu (amu)
+2530 : Den fri ungdomsuddannelse (FUU)
+254 : Jern/metal, ivu (amu)
+255 : Grafisk, ivu (amu)
+258 : Teknik/industri i øvrigt, ivu (amu)
+260 : Service, ivu (amu)
+275 : Levnedsmiddel/husholdning, ivu (amu)
+280 : Jordbrug/fiskeri, ivu (amu)
+285 : Transport mv., ivu (amu)
+290 : Social/sundhed, ivu (amu)
+2900 : Amu.ind., beklædnings- og tekstilindustri
+2901 : Amu.ind., lederuddannelse udvidet
+2902 : Amu.ind., teknik-fremstilling-elektronik
+2903 : Amu.ind., bryggeri-brænd.
+2904 : Amu.ind., sala-kødindustri-mejeri
+2905 : Amu.ind., metalindustri
+2906 : Amu.ind., fisk og fjerkræ
+2907 : Amu.ind., procesindustri - levnedsmiddel
+2908 : Amu.ind., snedker og tømrer
+2909 : Amu.ind., fotograffaget
+2910 : Amu.ind., el-faget
+2911 : Amu.ind., træindustrien
+2912 : Amu.ind., grafisk euu
+2913 : Amu.ind., teknikere mv.
+2914 : Amu.ind., metalindustrien specialarb.
+2915 : Amu.ind., kartonnage og papir
+2916 : Amu.ind., fyringsteknik
+2917 : Amu.ind., laborantuddannelse
+2918 : Amu.ind., kødbranchen
+2919 : Amu.ind., mejeriindustrien
+2920 : Amu.ind., plastindustrien
+2921 : Amu.ind., polstermøbler og sko
+2922 : Amu.ind., tobaksindustrien
+2923 : Amu.ind., vodbinderierhverv
+2924 : Amu.ind., procesindustri
+2925 : Amu.ind., fællesplan metalindustrien
+2926 : Amu lab./tekn., laboratorieteknik
+2950 : Amu.baj., malerfaget
+2951 : Amu.baj., murer og stenhugger
+2952 : Amu.baj., snedker og tømrer
+2953 : Amu.baj., tekniske installationer
+2954 : Amu.baj., teknikere sala-jordbrug
+2955 : Amu.baj., isoleringsfaget
+2956 : Amu.baj., asfaltbranchen
+2957 : Amu.baj., entreprenører
+2958 : Amu.baj., byggeri og energi
+2959 : Amu.baj., skorstensfejer
+2960 : Amu.baj., vvs-branchen
+2961 : Amu.baj., jordbrugets euu
+2969 : Amu.htf., lederuddannelse
+2970 : Amu.htf., reklamebranchen
+2971 : Amu.htf., filmoperatør
+2972 : Amu.htf., bager og konditor
+2973 : Amu.htf., handel og service
+2974 : Amu.htf., optikerfaget
+2975 : Amu.htf., urmagerfaget
+2976 : Amu.htf., frisør og kosmetik
+2977 : Amu.htf., tandteknikerfag
+2978 : Amu.htf., erhvervsfiskere
+2979 : Amu.htf., køkken og hotel mv
+2980 : Amu.htf., finanssektor
+2981 : Amu.htf., pressefotograf
+2982 : Amu.htf., transport og logistik
+2983 : Amu.htf., serviceerhverv
+2984 : Amu.htf., handel og kontor
+2985 : Amu.htf., vaskeriindustri
+2986 : Amu.htf., teaterteknik
+2990 : Amu.off., social og sundhed
+2991 : Amu.off., statslige uddannelser euu
+2992 : Amu.off., pædagogisk euu
+300 : Erhvervsfaglige uddannelse una, ivu
+3000 : Bioteknologi, kand.2år
+3001 : Digital design og interaktive teknologier, kand.2år
+3002 : Indoeuropæisk, kand.
+3003 : Internat.virksomhedsk, Interkult. markedsstud, cand.ling.merc.2år
+3004 : Internat. Virksomhedsk., Amerikanske studier, kand.2år
+3005 : Internat. Virksomhedsk., Europæiske studier, cand.ling.merc.2år
+3006 : International virksomhedskommunikation i arabisk, bach.
+3007 : International virksomhedskommunikation i engelsk, bach.
+3008 : Internat. virksomhedskommunik., engelsk-it-webkomm.,bach.
+3009 : Internat. virksomhedskommunik., spansk og medier, bach.
+3010 : International virksomhedskommunikation i spansk, bach.
+3011 : Internat. virksomhedskommunik., tysk og medier, bach.
+3012 : International virksomhedskommunikation tysk, bach.
+3013 : Internat. virksomhedskommunikation, engelsk og IT, bach.
+3014 : International virksomhedskommunikation i fransk, bach.
+3015 : Internat. virksomhedskommunikation, spansk og IT, bach.
+3016 : Internat. virksomhedskommunikation, tysk og IT, bach.
+3017 : International virksomhedskommunikation, sproglig og kulturel formidling, bach.
+3018 : International virksomhedskommunikation i 2 fremmedsprog, bach.
+3019 : Softwareteknologi, ingeniør bach.
+3020 : Moderne tysklandsstudier,master
+3021 : Internationale forhold, kand.2år
+3022 : Erhvervsøkonomi-erhvervssprog (SPRØK), bach.int
+3023 : Erhvervsøkonomi-erhvervssprog, engelsk og spansk,bach.int.
+3024 : Erhvervsøkonomi-business, language and culture, kand.2år
+3025 : Erhvervsøkonomi-Asian studies programme (ASP), bach.
+3026 : Erhvervsøkonomi-business, language and culture, bach.
+3027 : Maskinkonstruktion, ingeniør bach.
+3028 : Maskinkonstruktion, kand.2år
+3029 : Arkitektur og design, kand.2år
+3030 : Sundheds-IT, master
+3031 : Virksomhedskommunikation, kand.2år
+3032 : Lingvistik, bach.
+3033 : Sprogvidenskab og lingvistik, kand.2år
+3034 : Arabisk- og islamstudier, bach.
+3035 : Arabisk- og islamstudier, kand.2år
+3036 : HA (int.) erhvervsøkonomi med fransk,bach.
+3037 : HA (int.)erhvervsøkonomi med spansk,bach.
+3038 : HA (int.)erhvervsøkonomi med engelsk,bach.
+3039 : Spansk og spanskamerikansk sprog, litteratur og kultur, bach.
+3040 : Journalistik, cand.mag.2år
+3041 : Spansk sprog og kultur, bach.
+3042 : Fødevarevidenskab, kand.2år
+3044 : Amu.adm, administrative funktioner i HR
+3045 : Biokemi, bach.
+3046 : Akvatisk miljøbiologi, kand.2år
+3047 : Akvatisk videnskab og teknologi, cand.scient.tech.2år
+3048 : Biologisk oceanografi, kand.2år
+3049 : Biomedicinsk teknik, kand.2år
+3050 : Biosystemteknologi, cand.scient.tech.2år
+3051 : Bioteknologi, master
+3052 : Bæredygtig energi, cand.scient.tech.2år
+3053 : Eksperimentel biologi,bach.
+3054 : Eksperimentel biologi, kand.2år
+3055 : Erhvervsøkonomi-erhvervssprog, engelsk og tysk, bach.int.
+3056 : Kemi, miljø og bioteknologi, ingeniør bach.
+3057 : Kemi, miljø og bioteknologi, kand.2år
+3058 : Molekylærbiologi, kand.2år
+3059 : Systembiologi, cand.polyt.2år
+3060 : Systembiologi, cand.scient.tech.2år
+3061 : Ledelse af digital kommunikation, kand.2år
+3062 : Audiologi, bach.
+3063 : Audiologi, kand.2år
+3064 : Logopædi, bach.
+3065 : Pædagogisk audiologi, bach.
+3066 : Brasilianske studier, bach.
+3067 : Brasilianske studier, kand.2år
+3068 : Portugisiske og brasilianske studier, bach.
+3069 : Portugisiske og brasilianske studier, kand.2år
+3070 : Europastudier, kand.2år
+3071 : Øst- og sydøsteuropastudier, bulgarsk, bach.
+3072 : Øst- og sydøsteuropastudier, grækenlandsstudier, bach.
+3073 : Øst- og sydøsteuropastudier, polsk, bach.
+3074 : Øst- og sydøsteuropastudier, russisk, bach.
+3075 : Østeuropastudier, kand.2år
+3076 : Erhvervsøkonomi,cand.soc.2år
+3077 : Erhvervsøkonomi-virksomhedskommunikation, kand.2år
+3078 : Avanceret økonomi og finansiering, kand.2år
+3079 : Innovation og videnøkonomi, kand.2år
+3080 : Statskundskab, bach.
+3081 : Økonomi - Nationaløkonomi, kand.2år
+3082 : Politik og administration, kand.2år
+3083 : HA(kom.) erhvervsøkonomi-virksomhedskommunikation, bach.
+3084 : Marketing and management communication, bach.
+3085 : Kulturgeografi, kand.
+3086 : Geoinformatik (MTM), master
+3087 : Klassiske sprog, bach.
+3088 : Græsk, klassisk, bach.
+3089 : Latin, bach.
+3090 : Oldtidskundskab, bach.
+3091 : Vestasiens oldtidshistorie, kand.2år
+3092 : Interdisciplinære naturvidenskabelige studier, kand.2år
+3093 : Oplevelsesdesign, kand.2år
+3094 : Digital design, bach.
+3095 : Digital design, kand.2år
+3096 : Interaktive digitale medier, kand.2år
+3097 : It-produktudvikling, bach.
+3098 : It og læring, organisatorisk omstilling, kand.2år
+3099 : Informationsarkitektur, kand.2år
+3100 : Informationsvidenskab, bach.
+3101 : Informationsvidenskab, cand.it.2år
+3102 : Matrikulær informatik, master
+3103 : Security and mobile computing, kand.2år
+3104 : IT-design og applikationsudvikling, kand.2år
+3105 : Software, ingeniør bach.
+3106 : Software, kand.2år
+3107 : Softwarekonstruktion, cand.polyt.2år
+3108 : Computerteknologi, cand.scient.tech.2år
+3109 : Digitale medieteknologier, cand.scient.tech.2år
+3110 : Design og innovation, kand.2år
+3111 : Produktudvikling og innovation,cand.scient.tech.2år
+3112 : Industriel økonomi og teknologiledelse, kand.2år
+3113 : Værdikæder og innovationsledelse, cand.scient.tech.2år
+3114 : Virksomhedsteknologi, kand.2år
+3115 : Elektroteknologi, cand.polyt.2år
+3116 : Elektroteknologi, ingeniør bach.
+3117 : Elektro-mekanisk systemdesign, kand.2år
+3118 : Design af mekaniske systemer, kand.2år
+3119 : Konstruktion og mekanik, kand.2år
+3120 : Fødevareinnovation og sundhed, kand.2år
+3121 : Produkt- og designpsykologi, ingeniør bach.
+3122 : Produktion og konstruktion, ingeniør bach.
+3123 : Produktion, kand.2år
+3124 : By-, energi- og miljøplanlægning, ingeniør bach.
+3125 : By-, energi- og miljøplanlægning, kand.2år
+3126 : Landinspektørvidenskab,cand.scient.tech.2år
+3127 : Energiteknik, kand.2år
+3128 : Vindenergi, cand.scient.tech.2år
+3129 : Køleteknik, kand.2år
+3130 : Miljø- og arbejdsmiljøledelse, master
+3131 : Environmental studies, kand.2år
+3132 : Fødevareteknologi, cand.scient.tech.2år
+3133 : Fødevarevidenskab, cand.scient.tech.2år
+3134 : Molekylær ernæring og fødevareteknologi, kand.2år
+3135 : Amu.trp, lager, terminal og logistik
+3136 : Klinisk farmaci, kand.2år
+3137 : Lægemiddelvidenskab, kand.2år
+3138 : Farmaceutisk kemi, kand.2år
+3139 : Kemi, kand.2år
+3140 : Anvendt kemi, kand.2år
+3141 : Medicin og teknologi, cand.polyt.2år
+3142 : Teknisk geologi, cand.scient.tech.2år
+3143 : Didaktik, dansk, kand.2år
+3144 : Didaktik, matematik, kand.2år
+3145 : Didaktik, materiel kultur, kand.2år
+3146 : Didaktik, musikpædagogik, kand.2år
+3147 : Moderne kultur og kulturformidling, kand.2år
+3148 : Æstetik og kultur, bach.
+3149 : Kognitiv semiotik, kand.2år
+3150 : Journalistik, medier og globalisering, kand.2år
+3151 : Informationsvidenskab, cand.mag.2år
+3152 : Informationsvidenskab og kulturformidling, master
+3153 : Veterinary public health,master
+3154 : Art and technology, bach.
+3155 : Biomedicinsk informatik, kand.2år
+3156 : Produktudvikling og innovation, cand.polyt.2år
+3157 : Social Work,European Master
+3158 : Latinamerikastudier, kand.2år
+3159 : Amu.mej, pasning af dyr
+3160 : Internat. virksomhedskommunikation, dansk, kand.2år
+3161 : Urban Studies, kand.2år
+3162 : Kognitionsvidenskab, bach.
+3163 : Webkommunikation, kand.2år
+3164 : Informations- og kommunikationsvidenskab, kand.2år
+3165 : Kuratering, master
+3166 : Internat. virksomhedskommunikation, arabisk, bach.
+3167 : Tourism management, kand.2år
+3171 : Kognitionsvidenskab,bach.
+3172 : Tjekkisk,bach.
+3173 : Bosnisk-kroatisk-serbisk, kand.2år
+3176 : Arkitekturens teknik, æstetik og metoder,master
+3177 : Kvantitativ biologi og sygdomsmodellering, ingeniør bach.
+3181 : Amu, fri-institutionsforsøg
+320 : Pædagogik, ivu (eud)
+3207 : Sundhedsinnovation, kand.2år
+3208 : Akademiuddannelse i automation og drift
+3217 : Maskin og Produktion, ingeniør.bach
+3218 : Geoteknologi, ing.bach.
+3219 : Geoteknologi, ing.bach.
+3220 : Arkæologi, bach.
+3221 : International kommunikation og multimedier, bach.
+3222 : Informationsteknologi, kand.2år
+3223 : Energi management (overbygning), prof.bach.
+3224 : Journalistik, kand.2år
+3225 : Omsorg, sundhed og pædagogik, Individuel EUD
+3226 : Kontor, handel og forretningsservice, Individuel EUD
+3227 : Fødevarer, jordbrug og oplevelser, Individuel EUD
+3228 : Teknologi, byggeri og transport, Individuel EUD
+3230 : Svagstrøm, Ingeniør prof, bach.
+3231 : Fødevarer, jordbrug og oplevelser
+3232 : Sundhed, omsorg og pædagogik
+3233 : Kontor, handel og forretningsservice
+3234 : Teknologi, byggeri og transport
+3261 : Energi og Miljø diplomuddannelse
+3262 : Buschauffør i kollektiv trafik
+3263 : Buschauffør i kollektiv trafik
+3264 : Buschauffør i kollektiv trafik
+3265 : Turistbuschauffør
+3266 : Turistbuschauffør
+3267 : Kranfører
+3268 : Kranfører
+3269 : Kranfører
+3270 : Gartner
+3271 : Gartner
+3275 : Jordbrugvirksomhed(overbygning).prof.bach.
+3278 : AMU. adm, praktisk myndighedsudøvelse
+3285 : Amu.træ, møbelproduktion, halvfabrikata, bygningskomponenter mv.
+3287 : Amu.trp, klargøring af og tunnelkørsel med togmateriel
+3291 : Amu.ind, fremstilling af præcisionsprint og automatisk produktion
+3304 : Erhvervsøkonomi, bach.
+3305 : Akademiuddannelse i VVS-installation
+3306 : Akademiuddannelse i EL-installation
+3307 : Interkulturelle markedsstudier, kand.2år
+3308 : Hovedpinesygdomme, master
+3309 : lægemiddelregistrering, master
+3310 : Interkulturelle studier i fransk, kand.2år
+3311 : Interkulturelle studier i italiensk, kand.2år
+3312 : Interkulturelle studier i latinamerikastudier, kand.2år
+3313 : Interkulturelle studier i Latinamerika og Spanien, kand.2år
+3314 : Globale områdestudier, kand. 2 år
+3315 : Interkulturelle studier i tysk, kand.2år
+3316 : Diplomuddannelse i designledelse
+3317 : Master of Arts (MA) in Media Arts Cultures
+3318 : Interkulturelle studier, kand.2år
+3319 : Arbejdsmarkedsrettet Dansk
+3320 : Akademiuddannelse i hygiejne og rengøringsteknik
+3321 : Gæstestuderende
+3322 : Åben uddannelse
+3323 : HHX kursus
+3325 : Erhvervsuddannelse uden nærmere angivelse (EUX)
+3326 : IT-software, kand.2år
+3327 : Kommunikation, bach.
+3328 : Matematisk-fysisk faggruppe, kand.
+3329 : Folkeskolelærer,bach.
+3330 : Teknisk, cand. scient.tech.2år
+3331 : Operations Management, civilingeniør 2.år
+3333 : Kemi-og bioteknik.ing.prof.bach
+3334 : Religion studier/religionsvidenskab, kand.2år
+3335 : Kommunikation og digitale medier, bach.
+3336 : Audiologopædi, kand.2år
+3337 : Kulturformidling, kand.
+3338 : Kultur og kulturformidling, kand.2år
+3339 : Kunsthistorie, bach.
+3340 : Computerteknologi, cand.polyt.2år
+3341 : Teknisk geologi, cand.polyt.2år
+3342 : Datalogi, bach.
+3343 : Audiologopædi, bach.
+3344 : Biosystemteknologi, cand.polyt.2år
+3345 : Fødevareteknologi, cand.polyt.2år
+3346 : Rusland- og balkanstudier, bach.
+3347 : IT-produktudvikling, kand.2år
+3350 : Akademiuddannelse i byggekoordination
+3351 : Akademiuddannelse i byggeteknologi
+3352 : Akademiuddannelse i i Miljøteknologi
+3353 : Teknisk videnskab, ing.bach.
+3354 : Kvantitativ biologi og sygdomsmodellering, kand.2år
+3355 : Bioteknologi (engelsk), ing.prof.bach.
+3356 : Østeuropastudier, bach.
+339 : Handel/kontor, ivu (eud)
+353 : Bygge/anlæg, ivu (eud)
+354 : Jern/metal, ivu (eud)
+355 : Grafisk, ivu (eud)
+358 : Teknik/industri i øvrigt, ivu (eud)
+3598 : fiktiv afsluttet grundforløb
+3599 : Amu.trp, transportoptimering
+360 : Service, ivu (eud)
+3600 : Amu.adm, administration og assistance i sundhedssektoren
+3601 : Amu.met, transportteknisk område
+3602 : Amu.bai, anvendelse af entreprenørmateriel
+3603 : Amu.met, automatik- og procesteknisk område
+3604 : Amu.met, flyteknisk område
+3605 : Amu.bai, maling og overfladebehandling bygninger m.v.
+3606 : Amu.met, guld- og sølvsmedeområdet
+3607 : Amu.adm, IKT-administration og vedligeholdelse
+3608 : Amu.ind-met, skibsbygningstekniske område
+3609 : Amu.adm, foto-, film-, tv- og redaktionel produktion
+3610 : Amu.met, smedeteknisk område
+3611 : Amu.bai, spildevandsbehandling
+3612 : Amu.adm, detailhandel
+3613 : Amu.adm, produktion af trykt og digital kommunikation
+3614 : Amu.adm, handel og logistik
+3615 : Amu.bai, stilladsmontage
+3616 : Amu.adm, spedition og shipping
+3617 : Amu.adm, offentlig forvaltning og sagsbehandling
+3618 : Amu.adm, administration
+3619 : Amu.adm, viden- og forretningsservice
+3620 : Amu.adm, turist og rejse
+3621 : Amu.bai, tagdækning o.lign. med tagpap, membraner og folier
+3622 : Amu.ind-met, støberiteknisk område
+3623 : Amu.adm, ledelse
+3624 : Amu.met, maskin- og værktøjsområdet
+3625 : Amu.bai, vejbygning og belægninger
+3626 : Amu.met, elektronik- og svagstrømsteknisk område
+3627 : Amu.met, data- og kommunikationsteknisk område
+3628 : Amu.adm, finansiel rådgivning og forsikring
+3629 : Amu.soc, pædagogisk arbejde med børn og unge
+3630 : Amu.adm, forsikring og pension
+3631 : Amu.bai, anlægskonstruktioner og råhuse
+3632 : Amu.lev, industrislagtning og forædling af kødprodukter
+3633 : Amu.bai, boringer på land og jordbundsundersøgelser
+3634 : Amu.lev, detailforarbejdning og forædling af ferskvarer
+3635 : Amu.mej, maskiner og teknik landbruget
+3636 : Amu.srv, ejendomsservice
+3637 : Amu.bai, aptering af bygninger mv.
+3638 : Amu.lev, reception, servering og service
+3639 : Amu.bai, nedrivning og affaldshåndtering
+3640 : Amu.mej, planteproduktion i landbruget
+3641 : Amu.mej, husdyrproduktion i landbruget
+3642 : Amu.mej, pasning af zoodyr, hobbydyr og fisk
+3643 : Amu.bai, kloakering
+3644 : Amu.bai, isolering af tekniske anlæg
+3645 : Amu.bai, projektering, sagsbeh., reg. og teknisk salg
+3646 : Amu.mej, produktion og pakning mejeriprodukter
+3647 : Amu.lev, brød-, kage-, dessert- og konfekturefremstilling
+3648 : Amu.ind, laboratorieservice
+3649 : Amu.lev, madfremstilling - institutionskøkkener
+3650 : Amu.ind-met, svejsning og termisk skæring i metal
+3651 : Amu.met, teknisk design og tegning i industrien
+3652 : Amu.eli, elektrisk automation på aut.- maskiner og anlæg
+3653 : Amu.eli, elevatorteknik
+3654 : Amu.eli, el-forsyningsanlæg
+3655 : Amu.eli, bygningers el-installationer og antennemontage
+3656 : Amu.eli, service på hvidevare- og køleautomatik
+3657 : Amu.eli, intelligente bygningsinstallationer og CTS-anlæg
+3658 : Amu.eli, sikrings- og alarmteknik
+3659 : Amu.eli, tele- og datateknik
+3660 : Amu.srv, pleje af hår, hud og negle
+3661 : Amu.srv, urmageri
+3662 : Amu.srv, optometri
+3663 : Amu.srv, industriel vask og efterbehandling tekstiler
+3664 : Amu.ind, beklædnings- og textilområdet
+3665 : Amu.ind, travers-portalkran-riggerområdet
+3666 : Amu.mej, etablering og pleje af grønne områder og anlæg
+3667 : Amu.mej, produktion af og rådgivning om planteskoleplanter
+3668 : Amu.mej, produktion af og rådgivning om væksthusplanter
+3669 : Amu.ind, overfladebehandling stålkonstruktioner
+3670 : Amu.ind, spåntagende metalindustri
+3671 : Amu.ind, køle- og klimaanlæg
+3672 : Amu.ind, montage af elektronik
+3673 : Amu.adm, operativ retshåndhævelse, forebyggelse og efterfor
+3674 : Amu.mej, skovbrug og landskabsdrift
+3675 : Amu.ind, fremstilling af medicinalvarer og -produkter
+3676 : Amu.adm, praktisk kirketjeneste
+3677 : Amu.ind, industriel produktion af levneds- og nydelsesmidler
+3678 : Amu.ind, procesindustriel produktion af non-food produkter
+3679 : Amu.srv, rengøringsservice
+3680 : Amu.ind, arbejdets organisering ved produktion i industrien
+3681 : Amu.ind, plastområdet - hærdeplast
+3682 : Amu.ind, plastområdet - plastsvejsning
+3683 : Amu.ind, plastområdet - termoplast
+3684 : Amu.ind, montage af lettere industriprodukter
+3685 : Amu.ind, elektroniske komponenter og produkter
+3686 : Amu.ind, forsynings- og distributionssektorerne
+3687 : Amu.srv, vagtservice
+3688 : Amu.soc, patientrelateret service på sygehusene
+3689 : Amu.lev, madfremstilling - restaurant, kantine og catering
+3690 : Amu.eli, blikkenslagerarbejde
+3691 : Amu.eli, servicering af varme og sanitet
+3692 : Amu.soc, omsorg, sygepleje og pædagogisk arbejde
+3693 : Amu.eli, installation og service af klima og ventilation
+3694 : Amu.eli, Installation service - varme-vand-afløb vvs-området
+3695 : Amu.soc, sundheds-og sygeplejeopgaver i sygehusvæsenet
+3696 : Amu.eli, skorstensfejerarbejde
+3697 : Amu.eli, industrielle rørsystemer og anlæg
+3698 : Amu.srv, tandteknik
+3699 : Amu.træ, bolig- og autointeriørmontering
+3700 : Amu.træ, massivtræmøbel
+3701 : Amu.adm, kontrol og resocialisering af indsatte og asylansø
+3702 : Amu.træ, savværk og halvfabrikata
+3703 : Amu.træ, vinduer, døre og bygningskomponenter
+3704 : Amu.træ, plademøbel
+3705 : Amu.met, cykelmekanisk område
+3706 : Amu.met, entreprenør- og landbrugstekniske område
+3707 : Amu.met, køleteknisk område
+3708 : Amu.met, klimateknisk område
+3709 : Amu.met, varmeteknisk område (fyrede anlæg)
+3710 : Amu.ind, betjening og programmering industrirobotter
+3711 : Amu.ind, produktion i fiske- og fjerkræindustrien
+3712 : Amu.ind, pladebearbejdende metalindustri
+3713 : Amu.ind, industriel overfladebehandling
+3714 : Amu.trp, grundkompetence chauffør - bus
+3715 : Amu.trp, grundkompetence lager og terminal
+3716 : Amu.trp, lager og logistik
+3717 : Amu.trp, klargøring af togmateriel
+3718 : Amu.trp, renovation
+3719 : Amu.trp, flytning og møbeltransport
+3720 : Amu.trp, redning
+3721 : Amu.trp, post
+3722 : Amu.trp, specialbefordring af personer
+3723 : Amu.trp, transportarbejde i lufthavne
+3724 : Amu.trp, havn og terminal
+3725 : Amu.ind, medicinfremstilling
+3726 : Amu.soc, arbejde på klubområdet og i kulturhuse
+3727 : Amu ind, fremstilling af hybride print
+3728 : Amu.trp, grundkompetence chauffør - gods
+3729 : Amu.trp, grundkompetence chauffør - taxi
+3730 : Amu.trp, godstransport ad landevej
+3731 : Amu.trp, personbefordring med bybus, rutebil og taxi
+3732 : Amu.trp, lastbilkran
+3733 : Amu.trp, mobilkran
+3734 : Amu.trp, vintertjeneste
+3735 : Amu, fælleskataloget
+3736 : Amu, overgangsordnings FKB
+3737 : Amu.trp, erhvervsfiskere
+3738 : Amu, individuel kompetenceafklaring
+3739 : Amu.met, de maritime håndværksfag
+3740 : Amu.met, karrosseritekniske område
+3741 : Amu.met, køretøjsområdet
+3742 : Amu.met, låseteknik
+3743 : Amu.met, vedligehold af produktionsudstyr i metalindustrien
+3744 : Landskabsarkitektur, kand.
+3745 : Agronomi, kand.2år
+3746 : It til organisationer, kand.2år
+3747 : Kulturgeografi, kand.2år
+3749 : Amu.ind, betjening af travers-portalkran-riggerudstyr
+375 : Levnedsmiddel/husholdning, ivu (eud)
+3750 : Datanom
+3751 : Amu.ind, produktion af køle- og klimaanlæg
+3752 : IT-administrator
+3753 : Amu.bai, anlægsarbejder
+3754 : Amu ind, montage af lettere industriprodukter
+3755 : Erhvervsdiplom Lederuddannelse
+3756 : Amu.ind, fremstilling af produkter i plast
+3757 : Amu.ind, plastsvejsning
+3758 : Amu.ind, procesindustriel produktion
+3759 : Amu.ind, metalindustriel bearbejdning
+3760 : Ejendomsmægler
+3761 : Amu.met, opbygning og drift af offshore installationer
+3762 : Amu.bai, beton- og montagebyggeri
+3763 : Amu.bai, bygge- og anlægsopgaver i lettere/tungere materialer
+3764 : Amu.bai, gulvlægning og vådrumsopgaver med vådrumssikring
+3765 : Erhvervsdiplom Merkonom
+3766 : Amu.bai, industriel fremstilling af betonvarer/ -elementer
+3767 : Amu.bai, konstruktion og montage med glas og aluminium
+3768 : Amu.adm, detailhandel
+3769 : Amu, individuel kompetence vurdering
+3770 : Erhvervsdiplom Human resource development HRd
+3771 : Amu.mej, drift af gartneri, havecenter og planteskole
+3772 : Amu.trp, national og international personbefordring med bus
+3773 : Amu.trp, transport af levende dyr
+3774 : Amu.soc, socialpsykiatri og fysisk/psykisk handicap
+3775 : Finansiel videreuddannelse
+3776 : Amu ind, metrologi i metalindustrien
+3777 : Amu.trp, tanktransport
+3778 : Amu.lev, mad til grupper med varierede behov for ernæring
+3779 : Amu.met, teknisk dokumentation i industriel produktion
+3780 : Fodplejer opskoling
+3781 : Amu.træ, produktion af møbler, orgler, døre, vinduer mv.
+3782 : Amu.adm, administration og assistance tandklinikken
+3783 : Amu.ind-met, støberi- og metalskrotningsindustri
+3784 : Amu.ind, postale produkter og processer
+3785 : Kloakmester
+3786 : Amu.met, cykel-, knallert- og motorcykeltekniske område
+3787 : Amu.met, udvikling og produktion til digitale medier
+3788 : Amu.ind, operatøropgaver i el-forsyning
+3789 : Amu.met, teater-, udstillings- og eventområdet
+3790 : Landbrug, overbygningsuddannelse
+3791 : Amu.ind, betjening af industrirobotter for operatører
+3792 : Amu.ind, arbejdets organisering ved produktion i industrien
+3793 : Amu.srv, teltmontage
+3794 : Amu.rustfri, arbejde i den rustfrie stålindustri
+3795 : Amu.ind, overfladebehandling
+3796 : Amu ind, produktion af elektronikprodukter
+3797 : Amu.srv, teltmontage
+3798 : Amu.adm, instruktion og adm. funktioner i træning og sport
+3799 : Amu.mej, skov- og naturforvaltning og naturformidling
+380 : Jordbrug/fiskeri, ivu (eud)
+3800 : Financial controller
+3801 : Akademiuddannelse i skatter og afgifter
+3802 : Akademiuddannelse i socialt arbejde
+3803 : Akademiuddannelse i beskæftigelse
+3804 : Akademiuddannelse i tolkning
+3805 : Amu.soc, audiologiske og neurofysiologiske område
+3806 : Akademiuddannelse i international handel og markedsføring
+3807 : Akademiuddannelse i energiteknologi
+3808 : Amu.adm. produktion af kommunikations- og medieprodukter
+3810 : Merkonom
+3835 : Pc-bruger
+3836 : Akademiuddannelse uden profil
+3837 : Akademiuddannelse i kommunikation og formidling
+3838 : Akademiuddannelse i international handel og markedsføring
+3839 : Akademiuddannelse i økonomi- og ressourcestyring
+3840 : Akademiuddannelse i ledelse
+3841 : Akademiuddannelse i proces-, laboratorie- og fødevareteknologi
+3842 : Akademiuddannelse i innovation og produkt og produktion
+3843 : Akademiuddannelse i finansiel rådgivning
+3844 : Akademiuddannelse i human ressource
+3845 : Revision
+3846 : Akademiuddannelse i informationsteknologi
+3847 : Akademiuddannelse i international transport og logistik
+3848 : Akademigastronom
+3849 : Akademiuddannelse i offentlig forvaltning og administration
+385 : Transport mv., ivu (eud)
+3850 : Akademiuddannelse i sundhedspraksis
+3851 : Akademiuddannelse i ungdomspædagogik
+3852 : Akademiuddannelse i retail
+3853 : Akademiuddannelse i velfærdsteknologi i praksis
+3855 : Teknonom
+3868 : Amu bai, planlægning, styring og samarbejde i bygge & anlæg
+3869 : Amu.lev, slagtning, forædling og salg af kød og convenience
+3870 : Tilsynstekniker
+3871 : Amu.trp, personbefordring med bybus og rutebil
+3872 : Værkstedsfunktionær
+3873 : Amu.trp, personbefordring med letbane
+3875 : Akademiøkonom una
+3880 : Arbejdsstudietekniker
+3885 : Landmand, efteruddannelse
+390 : Social/sundhed, ivu (eud)
+3910 : Merkantile grundfag
+3915 : Merkantile område- og specialefag
+3920 : Tekniske grundfag
+3925 : Tekniske område- og specialefag
+3930 : Korte kurser ved erhvervsskoler
+3935 : Ledere af håndværksvirksomhed, kursus
+3939 : Iværksætteruddannelse
+3940 : Særligt tilrettelagte forløb ved erhvervsskoler
+3941 : Erhvervsuddannelser, fagspecifikke kurser
+3942 : Tx-enkeltfag
+3943 : Mellemlange videregående uddannelser, fagspecifikke kurser
+3945 : Maler, videreuddannelse
+3950 : Videregående tekniker
+3955 : Tf-kursus
+3960 : Sektoroverskridende, åben uddannelse
+3961 : Indledende kurser til VVU
+3965 : Blomsterbinder
+3970 : Akademiuddannelse i oplevelsesøkonomi
+3972 : Akademiuddannelse i Kvalitet og måleteknologi
+400 : Kort videregående uddannelse una, ivu (KVU)
+4000 : Markedsøkonom
+4001 : Handelseksamen, almen linie
+4002 : Handelseksamen, sproglig linie
+4003 : Handelseksamen, regnskabslinie
+4004 : Handelseksamen, butikslinie
+4005 : Akademiøkonom i indkøb og import
+4006 : Akademiøkonom i logistik og transport
+4007 : Hhx, 2-årig (gl. ordn.)
+4008 : Hhx, 1-årig
+4009 : Systemprogrammør
+4010 : Edb-assistent
+4011 : Akademiøkonom i international handel
+4012 : Akademiøkonom i international markedsføring
+4013 : Mikroinstruktør
+4014 : Datamatiker
+4015 : Eksportkonsulent
+4016 : Hotel- og rejselivstekniker
+4019 : Eksporttekniker
+4020 : Akademiøkonom i transport
+4021 : Akademiøkonom i afsætning
+4022 : Akademiøkonom i eksport
+4023 : Akademiøkonom i indenlandsk afsætning
+4024 : Akademiøkonom i detailhandel
+4025 : Akademiøkonom i udenrigshandel
+4026 : Akademiøkonom i markedsføring og service
+4027 : Akademiøkonom i økonomi og informatik
+4028 : Akademiøkonon i service, hotel og turisme
+4030 : Labratorie-, kemo- og miljøtekniker
+4031 : Htx, 2-årig (gl. ordn.)
+4036 : Laborant
+4037 : Produktudvikler
+4038 : Trikotageassistent
+4039 : Tekstilassistent
+4044 : Farveriassistent
+4045 : Teknisk tegner
+4051 : Amu.met, cykel-, knallert- og motorcykeltekniske område
+4052 : Levnedsmiddeltekniker
+4053 : Konfektionsassistent
+4061 : Bygningskonstruktør
+4063 : Gastekniker
+4064 : Elektroniktekniker
+4065 : Maskintekniker
+4069 : Vvs-tekniker
+4075 : Kunsthåndværk, guld- og sølvformgivning
+4080 : Maskinist
+4082 : Maskinmester (gl.ordning)
+4083 : Maskinmester, udvidet
+4084 : Grafonom i teknik og økonomi
+4085 : Grafonom i kommunikation
+4089 : Byggekoordinator
+4090 : Vildtforvalter
+4091 : Trætekniker
+4092 : Kort- og landmålingstekniker
+4093 : Skov- og landskabsingeniør, prof.bach.
+4094 : Herregårdsskytte
+4095 : Konfektionsassistent, tekstil
+4096 : Kvalitets- og måletekniker
+4097 : Miljøtekniker
+4098 : Levnedsmiddelassistent
+4103 : Støberitekniker
+4104 : Former
+4105 : Smedeuddannelse
+4106 : Maskinuddannelse
+4107 : Værktøjsuddannelsen
+4108 : Finmekaniker
+4109 : Industritekniker
+4110 : Elektronik- og svagstrømsuddannelse
+4111 : Automatik- og procesuddannelse
+4112 : Elektriker
+4113 : Mekaniker
+4114 : Entreprenør- og landbrugsmaskinuddannelsen
+4115 : Cykel- og motorcykelmekaniker
+4116 : Guld- og sølvsmedeuddannelsen
+4117 : Metalsmed
+4118 : Skibstømrer
+4119 : Bogbinder
+4120 : Jern og metal, basisår
+4121 : Industriel reparatør
+4122 : Ædelstensfatter
+4123 : Ædelmetalstøber
+4124 : Sundhed, omsorg og pædagogik, individuel eud
+4125 : Personvognsmekaniker
+4126 : Industrisvejser
+4134 : Akademiuddannelse i ernæring
+4135 : Produktør
+4136 : Snedkeruddannelsen
+4137 : Maskinsnedker mv.
+4138 : Plastmager og procesoperatør
+4139 : Pottemager
+4140 : Porcelænsmaler
+4141 : Boligmonteringsuddannelsen
+4142 : Skomager
+4143 : Beklædningshåndværker
+4144 : Industrioperatør
+4145 : Laboratorietandtekniker
+4146 : Hospitalsteknisk assistent
+4147 : Film- og TV produktionsuddannelse
+4148 : Fotograf
+4149 : Mediegrafiker
+4150 : Grafisk tekniker
+4151 : Anlægsgartner
+4152 : Produktionsgartner
+4153 : Skov- og naturtekniker
+4154 : Landbrugsuddannelse (gl.)
+4155 : Transportuddannelse
+4156 : Vejgodstransportuddannelse
+4157 : Anlægs- og bygningsstruktør, brolægger
+4158 : Træfagenes byggeuddannelse
+4159 : VVS-energiuddannelsen
+4160 : Landbrugsuddannelsen
+4161 : Bager og konditor
+4162 : Gourmetslagter
+4163 : Slagter
+4164 : Gastronom
+4165 : Ejendomsservicetekniker
+4166 : Ferskvareassistent
+4168 : Hotel- og fritidsassistent
+4169 : Tekstile erhvervsuddannelse
+4170 : Bygge og anlæg, basisår
+4171 : Bygnings- og brugerservice, individuel eud
+4189 : Sundhedsservicesekretær
+4190 : Kontoruddannelse
+4191 : Handelsuddannelse
+4192 : Detailhandelsuddannelse
+4193 : Finansuddannelsen
+4194 : Kontoruddannelse, kontorservice
+4195 : Teknik 2. skoleperiode
+4196 : Kontoruddannelse, kundekontaktcenter
+4197 : Eventkoordinator
+4198 : Hg
+4199 : Ti teknisk introduktionskursus
+4202 : Hi handel introduktionskursus
+4207 : Biokemi, kand.2år
+4208 : Biokemi, kand.
+4215 : Lastvognsmekaniker
+4217 : Bådmekaniker
+4230 : Skibstekniker
+4244 : Lastvognsmekaniker (gl.)
+4247 : Flymekaniker
+425 : Formidling/erhvervssprog, ivu (kvu)
+4252 : Karrosseriuddannelsen
+4256 : Beslagsmed
+4259 : Køletekniker
+4268 : Modelsnedker
+4273 : Glarmester
+4274 : Bygningsmaler
+4275 : Skiltetekniker
+4276 : Vognmaler
+4278 : Murer
+4281 : Stenhugger
+4282 : Stukkatør
+4289 : Skorstensfejer
+4292 : Teknisk isolatør
+430 : Kunstnerisk, ivu (kvu)
+4302 : Bådserviceassistent
+4303 : Lager- og terminaluddannelse
+4304 : Skibsmontør
+4305 : Teknisk designer
+4306 : Havne- og terminaluddannelse
+4309 : Plastmager
+4311 : Procesoperatør
+4312 : Elektronikoperatør
+4313 : Forsyningsoperatør
+4315 : Teater-, udstillings- og eventtekniker
+4320 : Levnedsmiddelfag, basisår
+4321 : CNC-teknikuddannelse
+4332 : Skibsmekaniker
+4357 : Frontline radio-tv-supporter
+4358 : Frontline PC-supporter
+4360 : Grafisk, basisår
+4362 : Overfladebehandler
+4369 : Byggemontagetekniker
+4370 : Serviceassistent
+4380 : Service, basisår
+439 : Samfundsfaglig, ivu (kvu)
+4422 : Tjener
+4428 : Kantinemedhjælper og køkkenassistent
+4431 : Ernæringsassistent
+4432 : Mejerist
+4437 : Tarmrenser
+4442 : Receptionist
+4443 : Møller
+4445 : Cafeteria- og kantineassistent
+4450 : Have- og parkingeniør, prof.bach.
+4456 : Web-integrator
+4473 : Serigraf
+4483 : Urmager
+4488 : Frisør
+4498 : Optometrist (erhvervsfaglig)
+4502 : Glasmager
+4503 : Glassliber
+4504 : Glasrørsblæser
+4510 : Beklædningsoperatør
+4511 : Tandklinikassistent
+4520 : Jordbrugsfag, basisår
+4522 : Fitnessinstruktør
+4524 : Kosmetiker
+4525 : Ortopædist
+4550 : Landtransport, basisår
+4562 : Videreuddannelse i odontologisk praksis
+459 : Teknisk, ivu (kvu)
+4601 : Maritime håndværksfag
+4603 : Tagdækker
+4604 : Data- og kommunikationsuddannelsen
+4605 : Digital media uddannelse
+4615 : Greenkeeper
+4626 : Væksthusgartner
+4629 : Dyrepasser
+4634 : Greenkeeperassistent
+4640 : Veterinærsygeplejerske
+4663 : Redder
+4669 : Togklargører
+4670 : Sikkerhedsvagt
+4673 : Personbefordringsuddannelsen
+4680 : Postuddannelse
+4685 : Lufthavnsuddannelsen
+4710 : Det merkantile område
+4712 : Teknologi og kommunikation
+4713 : Bygge og anlæg
+4714 : Håndværk og teknik
+4715 : Fra jord til bord
+4716 : Mekanik, transport og logistik
+4717 : Service
+4725 : Erhvervsgrunduddannelse EGU
+4730 : Bil, fly og andre transportmidler
+4731 : Bygge og anlæg
+4732 : Bygnings- og brugerservice
+4733 : Dyr, planter og natur
+4734 : Krop og stil
+4735 : Mad til mennesker
+4736 : Medieproduktion
+4737 : Produktion og udvikling
+4738 : Strøm, styring og IT
+4739 : Sundhed, omsorg og pædagogik
+4740 : Transport og logistik
+475 : Levnedsmiddel/husholdning, ivu (kvu)
+4750 : Teknologi- og kommunikation, individuel eud
+4754 : Mekanik, transport og logistik, individuel eud
+4756 : Krop og stil, individuel eud
+4758 : Merkantile område, individuel eud
+4760 : Jord til bord, individuel eud
+4762 : Service, individuel eud
+4780 : Social- og sundhedshjælper (eud)
+4781 : Social- og sundhedsuddannelsen (eud)
+4782 : Pædagogisk assistentuddannelse (eud)
+4783 : Bil, fly og andre transportmidler, individuel eud
+4784 : Dyr, planter og natur, individuel eud
+4785 : Medieproduktion, individuel eud
+4786 : Produktion og udvikling, individuel eud
+4787 : Bygge og anlæg, individuel eud
+4788 : Mad til mennesker, individuel eud
+4789 : Strøm, styring og it, individuel eud
+4790 : Social- og sundhedshjælper
+4791 : Social- og sundhedsassistent
+480 : Jordbrug/fiskeri, ivu (kvu)
+4800 : Global innovation management, kand.2år
+4801 : Globale forretningssystemer, ingeniør bach.
+485 : Transport mv., ivu (kvu)
+4860 : Billedskærer
+4861 : Forgylder
+4874 : Børstenbinder
+4876 : Kurvemager
+4880 : Defektrice
+490 : Social/sundhed, ivu (kvu)
+495 : Forsvar/politi, ivu (kvu)
+4996 : Informatikassistent
+500 : Mellemlang videregående uddannelse una, ivu(MVU)
+5000 : Akademiuddannelse i projektledelse - medie- kommunik.branchen
+5001 : Akademiuddannelse i kreativitet og design
+5003 : Akademiøkonom i kommunikation og reklame
+5004 : Akademiøkonom, salgskonsulent
+5005 : Akademiøkonom i international erhvervsinformation
+5006 : Akademiøkonom i internationalt salg
+5007 : Akademiøkonom i miljø og økonomi
+5008 : Akademiøkonom i sport og fritid
+5009 : Akademiøkonom i hotel- og restaurantledelse
+5017 : Gas-, vand- og sanitetsmester
+5020 : Akademiøkonom i bilbranchen
+5021 : Politikadet
+5025 : Eksamineret eksportør
+5030 : Byggetekniker
+5032 : El-installatøruddannelse
+5035 : Plasttekniker
+5036 : Modeltekniker
+5037 : Tekstil- og beklædningstekniker
+5038 : Modelkonstruktør
+5045 : Værkstedsskoleforløb
+5050 : Tf-kursus
+5055 : Designer, bach.
+5060 : Værkstedsteknisk grundskole, bandagist
+5063 : Designer, kand.2år
+5071 : Jordbrugstekniker
+5074 : Food business engineer
+5075 : Tekstildesign, -håndværk og formidling, prof.bach.
+5076 : Akademiøkonom i designmanagement
+5077 : Akademiøkonom i sprog og økonomi
+5078 : Akademiøkonom i handel med fast ejendom
+5079 : Akademiøkonom i international telekommunikation
+5080 : Htx
+5082 : Multimediedesigner
+5083 : Mediekoordinator
+5084 : Innovation og entrepreneurship
+5085 : Akademiøkonom i kommunikation og formidling
+5086 : Logistikøkonom
+5087 : Visualizer
+5090 : Hhx
+5093 : Akademiøkonom i servicesektor management
+5094 : Akademiøkonom i østeuropæisk handel
+5095 : Akademiøkonom i markedskommunikation
+5096 : Akademiøkonom i grafisk kommunikation
+5111 : Børneforsorgspædagog, småbørnslinie
+5112 : Børneforsorgspædagog, almen linie
+5113 : Socialpædagog
+5114 : Børneforsorgspædagog, kursus 4 mdr.
+5115 : Socialpædagog, videreuddannelse
+5116 : Omsorgsassistent ved åndsvageforsorgen
+5117 : Diplomuddannelse i pædagogisk arbejde
+5118 : Omsorgspersonale, fortsætteruddannelse
+5119 : Offentlig administration, prof.bach.
+5120 : Socialpædagog, fællesuddannelse
+5121 : Finansøkonom
+5122 : Handelsøkonom
+5123 : Markedsføringsøkonom
+5124 : Serviceøkonom
+5125 : Administrationsøkonom
+5126 : FIF flygtninge, adgangskursus til videregående uddannelse
+5127 : Socialrådgiver, prof.bach
+5128 : Socialrådgiver, årskursus
+5129 : Autoteknolog
+5130 : Bygningskonstruktør, prof.bach.
+5131 : Designteknolog
+5132 : Installatør
+5133 : IT-teknolog
+5134 : Jordbrugsteknolog
+5135 : Procesteknolog
+5136 : Produktionsteknolog
+5137 : E-designer
+5138 : Industriel designer (overbygning), prof.bach.
+5139 : Driftsteknolog offshore
+5140 : Teknisk manager offshore
+5141 : Ernæringsteknolog
+5142 : Pædagogisk grunduddannelse
+5143 : Markedsføringsøkonom
+5144 : Social og sundhed, grundforløb
+5145 : Beskæftigelsesvejleder
+5146 : Plejer
+5147 : Social- og sundhedshjælper
+5148 : Sygehjælper
+5149 : Plejehjemsassistent
+5150 : Kiropraktor, forskole
+5151 : Fysioterapi, prof.bach.
+5152 : Social- og sundhedsassistent
+5153 : Ergoterapi, prof.bach.
+5154 : Ergo- og fysioterapeut ledende/undervisende, videreuddannelse
+5155 : Fodterapeut
+5156 : Økonoma
+5157 : Psykomotorik, prof.bach.
+5158 : Radiograf, prof.bach.
+5159 : Bioanalytiker, prof.bach
+5160 : Have- og parkingeniør, prof.bach.
+5161 : Bandagist, prof.bach.
+5165 : Klinisk biomekanik, bach.
+5166 : Sygeplejerske, prof.bach.
+5168 : Sundhedsplejerske, diplomeksamen
+5169 : Ledende sygeplejerske
+5171 : Sundheds- og sygeplejerske, videreuddannelse
+5174 : Energiteknolog
+5175 : Jordemoder, prof.bach.
+5176 : Optometrist, prof.bach.
+5177 : Farmakonom
+5178 : Sygeplejerske, diplomeksamen
+5179 : Sygepleje supplering, adgangsgivende til videre uddannelse
+5180 : Sygeplejevidenskab, kand.2år
+5182 : Sikkerhedsfunktionær
+5183 : Styrmand, 1-årig
+5184 : Skibsmaskinist
+5185 : Radiotelegrafist
+5186 : Kommunikationsoperatør, søfart
+5187 : Vagtofficer
+5188 : Juniorofficer, prof.bach.
+5189 : Maskinmester
+5190 : Styrmand (skibsfører)
+5191 : Skibsofficer dual-purpose, prof.bach.
+5192 : Juniorofficer, 2.teoridel
+5193 : Juniorofficer, 3.teoridel
+5194 : Skibsfører, seniorofficer, prof.bach.
+5195 : Skibsfører (uden gymnasial baggrund)
+5196 : Enhedsfunktionær, fængselsvæsnet
+5197 : Værkmester, fængselsvæsnet
+5198 : Polititjenestemand
+5199 : Fængselsfunktionær
+520 : Pædagogik, ivu (mvu)
+5200 : Postelev
+5201 : Teleelev
+5202 : Postassistent
+5203 : Automationsteknolog
+5205 : Toldbetjent
+5206 : Toldassistent
+5207 : Toldfaglig grunduddannelse
+5208 : Toldsekretær
+5209 : Toldfuldmægtig
+5210 : Laboratorie-, fødevare- og procestekn. (overbygning), prof.bach.
+5211 : Jordbrugsvirksomhed (overbygning), prof.bach.
+5212 : IT-produktdesign, kand.2år
+5213 : Robotteknologi, civilingeniør 2år
+5214 : Netværk og distribuerede systemer, civilingeniør 2år
+5215 : Lokomotivfører
+5216 : Regulering og automation, civilingeniør 2år
+5217 : Trådløse kommunikationssystemer, kand.2år
+5218 : Vision, grafik og interaktive systemer, kand.2år
+5219 : Indlejrede softwaresystemer, kand.2år
+5220 : Skibsfører (uden gymnasial uddannelse)
+5221 : Maskinmester m. eud-baggrund (ledelse-drift), prof.bach.
+5222 : Maritim transport og skibsledelse (seniorofficer), prof.bach.
+5223 : Maskinmester m. gymnasial baggrund (ledelse-drift), prof.bach.
+5224 : Maskinmester, prof.bach.
+5226 : Skibsfører, prof.bach.
+5227 : Maritim transport og skibsledelse (juniorofficer), prof.bach.
+5230 : Adgangskursus, skov- og landskabsingeniør
+5236 : Akustik og audioteknologi, kand.2år
+5237 : Signalbehandling og beregning, kand.2år
+5238 : Miljøteknolog
+5239 : Miljøvidenskab, cand.tech.2år
+5240 : Kemiteknik, kand.2år
+5241 : Bioinformatik og systembiologi, kand.2år
+5242 : Digitale medieteknologier, cand.polyt.2år
+5243 : Mekanik, kand.2år
+5244 : Maritim teknologi, kand.2år
+5245 : Kemi og bioteknologi, cand.scient.tech.2år
+5246 : Politivirksomhed, prof.bach.
+5247 : Interaktivt design, ing.prof.bach.
+5248 : Kemi og fødevareteknologi, diplomingeniør prof.bach.
+5249 : Elektronik, civilingeniør 2år
+525 : Formidling/erhvervssprog, ivu (mvu)
+5250 : Elektrisk energiteknologi, ing.prof.bach.
+5251 : Stærkstrømsteknologi, ing.prof.bach.
+5252 : Byggeri og anlæg, ing.prof.bach.
+5253 : Byggeri og infrastruktur, ing.prof.bach.
+5254 : Bygning, ing.prof.bach.
+5255 : Bygningsteknik, ing.prof.bach.
+5256 : Eksportteknologi, ing.prof.bach.
+5257 : Elektronik, ing.prof.bach.
+5258 : Elektronik og datateknik, ing.prof.bach.
+5259 : Elektroteknologi, ing.prof.bach.
+5260 : Civilingenør una, civilingeniør 2år
+5261 : Bygning, civilingeniør 2år
+5262 : Elektro, civilingeniør 2år
+5263 : Kemi, cand.polyt.2år
+5264 : Maskin, civilingeniør 2år
+5265 : Klinisk biomekanik, kand.2år
+5266 : Forsyningsteknik inden for vand, spildevand og fjernvarme, ing.prof.bach.
+5267 : Informations- og kommunikationsteknologi, ing.prof.bach.
+5268 : It og økonomi, ing.prof.bach.
+5269 : It-elektronik, ing.prof.bach.
+5270 : Kemi (kemiteknik), ing.prof.bach.
+5271 : Computerteknologi, cand.polyt.2år
+5272 : Miljø, civilingeniør 2år
+5273 : Kemi og bioteknologi, cand.polyt.2år
+5274 : Teknisk geologi, cand.polyt.2år
+5275 : Kemi- og bioteknologi, ing.prof.bach.
+5276 : Maskinteknik, ing.prof.bach.
+5277 : Maskinteknologi, ing.prof.bach.
+5278 : Materialeteknologi, ing.prof.bach.
+5279 : Nanoteknologi, ing.prof.bach.
+5280 : Produktion (Produktionsteknik), ing.prof.bach.
+5281 : Softwareteknologi, ing.prof.bach.
+5282 : Kemiteknik og International Business, ing.prof.bach.
+5283 : Mobilitet, Transport og Logistik, ing.prof.bach.
+5284 : Robotteknologi, ing.prof.bach.
+5285 : Nordisk urban planlægning, kand.2år
+5286 : Business analytics, civilingeniør 2år
+5295 : Fiskeriteknolog
+5299 : Adgangseksamen til ingeniøruddannelsen
+530 : Kunstnerisk, ivu (mvu)
+5300 : Bygning, teknikumingeniør
+5305 : Elektroteknik, teknikumingeniør
+5308 : Proces og innovation, ing.prof.bach.
+5309 : Fødevaresikkerhed og -kvalitet, ing.prof.bach.
+5310 : Maskinretning, teknikumingeniør
+5315 : Produktion, teknikumingeniør
+5324 : Medie- og sonokommunikation, prof.bach.
+5325 : Modulordning, teknikumingeniør
+5326 : Produktudvikling og teknisk integration (overbygning), prof.bach.
+5327 : Business Development Engineer, ing.prof.bach.
+5328 : Teknologi og økonomi, ingeniør prof.bach.
+5329 : Design og innovation, ingeniør prof.bach.
+5331 : Eksport og teknologi, ing.prof.bach.
+5332 : Diplomingeniør prof.bach una
+5333 : Maskin, ingeniør prof.bach.
+5334 : Stærkstrøm, ingeniør prof.bach.
+5335 : Bygning, ingeniør prof.bach.
+5336 : Produktion, ingeniør prof.bach.
+5337 : Svagstrøm, ingeniør prof.bach.
+5338 : Elektronik og IT, ingeniør prof.bach.
+5339 : Kemi, ingeniør prof.bach.
+5340 : Diplomingeniør prof.bach.
+5341 : Materialeteknologi, ingeniør prof.bach.
+5342 : Levnedsmiddelingeniør
+5343 : IT, ingeniør prof.bach.
+5344 : IT for datamatiker, ingeniør prof.bach.
+5345 : Arktisk teknologi, ing.prof.bach.
+5346 : Bygningsdesign, ing.prof.bach.
+5347 : Bæredygtig energiteknik, ing.prof.bach.
+5348 : Bygning, akademiingeniør
+5349 : Information, akademiingeniør
+5350 : Bygning, akademiingeniør
+5351 : Anlæg, akademiingeniør
+5352 : Elektro, akademiingeniør
+5355 : Kemi, akademiingeniør
+5356 : Energi, akademiingeniør
+5357 : Maskin, akademiingeniør
+5358 : Industri, akademiingeniør
+5359 : Teknisk manager offshore (overbygning), prof.bach.
+5360 : Civilingeniør una
+5361 : Bygning, civilingeniør
+5362 : Elektronik, civilingeniør
+5363 : Kemi, civilingeniør
+5364 : Maskin, civilingeniør
+5365 : Bygning-almen, civilingeniør
+5385 : Teknologibaseret forretningsudvikling, kand.2år
+5387 : Miljøteknologi, cand.polyt.2år
+5388 : Virksomhedssystemer, kand.2år
+539 : Samfundsvidenskab ivu (mvu)
+5391 : Energi, civilingeniør
+5397 : Software engineering, kand.2år
+5399 : Teknisk videnskab, ph.d.
+5400 : Landbrugsvidenskab, kand.
+5401 : Jordbrugsøkonomi, kand.
+5403 : Mejeribrug, kand.
+5405 : Fødevarevidenskab, kand.
+5407 : Havebrugsvidenskab, kand.
+5409 : Havebrugsvidenskab, anlæg, kand.
+5410 : Naturressourcer og udvikling/Agricult. development, kand.2år
+5411 : Skovbrugsvidenskab, kand.
+5413 : Landinspektør, kand.
+5414 : Animal-derived foods, kand.2år
+5415 : Veterinærvidenskab, kand.
+5416 : Veterinærvidenskab, ph.d.
+5417 : Veterinær- og jordbrugsvidenskab, ph.d.
+5418 : Jordbrug, ph.d.
+5419 : Miljøvidenskab, kand.2år
+5420 : Miljø- og naturessourceøkonomi, kand.2år
+5421 : Forest ecosystems, nature and society, kand.2år
+5422 : Sustainable development in agriculture, kand.2år
+5423 : Forests and livelihoods, kand.2år
+5424 : Global Management and Manufacturing , ing.prof.bach.
+5425 : Farmaci, kand.
+5426 : Innovation og entrepreneurship (overbygning), prof.bach.
+5427 : Farmaceut, ph.d.pharm.
+5428 : Jordbrug, natur og miljø, kand.2år
+5429 : Bioteknologi, ing.prof.bach.
+5430 : Klinisk ernæring, kand.2år
+5431 : Tandplejer
+5432 : Klinisk tandtekniker
+5433 : Tandlæge, kand.
+5434 : Tandplejer, prof.bach.
+5435 : Tandlæge-odontologi, ph.d.odont.
+5436 : Integreret design, ing.prof.bach.
+5437 : Grafisk fortælling, prof.bach.
+5438 : Multiplatform storytelling and production, prof.bach.
+5439 : Mekatronik, ing.prof.bach.
+5440 : Folkeskolelærer, prof.bach.
+5441 : Den frie læreruddannelse
+5442 : Forsyningsteknik -vand,spildevand,fjernvarme, ingeniør prof.bach.
+5443 : Pædagogisk grunduddannelse PGU
+5444 : Pædagog, prof.bach.
+5445 : Børnehavepædagog
+5446 : Nanoteknologi, ingeniør prof.bach.
+5447 : Fritidspædagog
+5448 : Sustainable Tropical Forestry, kand.2år
+5449 : Sustainable Forest and Nature Management, kand.2år
+545 : Naturvidenskab, ivu (mvu)
+5450 : Ernærings- og husholdningsøkonomi, prof.bach.
+5451 : Klinisk diætist
+5452 : Miljøkemi, kand.2år
+5453 : Human ernæring, kand.2år
+5454 : Landskabsforvaltning, kand.2år
+5455 : Kombineret (Kgl. veterinær- landbohøjsk.), kand.2år
+5456 : Katastrofe- og risikomanager, prof.bach.
+5457 : Fødevareteknologi og -applikation, prof.bach.
+5458 : Mejeriteknologi, prof.bach.
+5459 : Laboratorie-, fødevare- og procestekn. (overbygning), prof.bach.
+5460 : Ernæring og sundhed, prof.bach.
+5461 : Bibliotekar
+5462 : Bibliotekar ved forsknings- og fagbibliotek
+5463 : Informationsvidenskab og kulturformidling, bach.
+5464 : Forskningsbibliotekar
+5465 : Informationsvidenskab og kulturformidling, kand.2år
+5467 : Bibliotekar,bach.
+5468 : Bibliotekar, kand.2år
+5469 : Global nutrition and health, prof.bach.
+5470 : Arkitekt, kand.
+5471 : Bibliotekar DB
+5472 : It-sikkerhed (overbygning), prof.bach.
+5473 : E-handel (overbygning), prof.bach.
+5475 : Softwareudvikling (overbygning), prof.bach.
+5476 : Sportsmanagement (overbygning), prof.bach.
+5477 : Diplomuddannelse i design og business
+5480 : Arkitekt, ph.d.
+5483 : Visuel kommunikation, prof.bach.
+5484 : Trafik og transport, ingeniør prof.bach.
+5485 : Grafisk kommunikation, prof.bach.
+5486 : Medieproduktion og ledelse, prof.bach.
+5487 : TV- og medietilrettelæggelse, prof.bach.
+5488 : Webudvikling (overbygning), prof.bach.
+5489 : International handel og markedsføring (overbygning), prof.bach.
+5490 : Finans, prof.bach.
+5491 : International hospitality management (overbygning), prof.bach.
+5492 : Eksport og teknologi, prof.bach.
+5493 : Erhvervssproglig begynderprøve, italiensk
+5494 : Design og business (overbygning), prof.bach.
+5495 : Erhvervssproglig begynderprøve, russisk
+5496 : Erhvervssproglig begynderprøve, spansk
+5497 : Smykker, teknologi og business, prof.bach.
+5498 : Tresproglig korrespondent
+5499 : Digital konceptudvikling (overbygning), prof.bach.
+5500 : Skat, prof.bach.
+5501 : Erhvervssprogligt grundstudium i engelsk
+5502 : Erhvervssprogligt grundstudium i fransk
+5503 : Erhvervssprogligt grundstudium i italiensk
+5505 : Erhvervssprogligt grundstudium i russisk
+5506 : Erhvervssprogligt grundstudium i spansk
+5507 : Erhvervssprogligt grundstudium i tysk
+5508 : Erhvervssprog administrativ, grunduddannelse
+5510 : Erhvervssprogligt grundstudium 2 sprog
+5532 : Engelsk, cand.negot.
+5533 : Fransk, cand.negot.
+5534 : Tysk, cand.negot.
+5535 : Spansk, cand.negot.
+5536 : Arabisk, cand.negot.
+5537 : Polsk, cand.negot.
+5550 : Erhvervssproglig diplomprøve ED una
+5551 : Engelsk, erhvervssproglig diplomprøve ED
+5552 : Fransk, erhvervssproglig diplomprøve ED
+5553 : Italiensk, erhvervssproglig diplomprøve ED
+5555 : Russisk, erhvervssproglig diplomprøve ED
+5556 : Spansk, erhvervssproglig diplomprøve ED
+5557 : Tysk, erhvervssproglig diplomprøve ED
+5560 : Erhvervssproglig afgangseksamen EA
+5570 : Cand.interpret.2år una
+5571 : Engelsk, cand.interpret.
+5572 : Fransk, cand.interpret.
+5575 : Russisk, videregående erhvervssproglig uddannelse
+5576 : Spansk, cand.interpret.
+5577 : Tysk, cand.interpret.
+5578 : Konferencetolkning, master
+5580 : Lic.ling.merc.3år
+5589 : Multikulturel organisationskommunikation, kand.2år
+559 : Teknisk, ivu (mvu)
+5590 : Kommunikationsdesign, kand.2år
+5591 : Erhvervsspr.-internat. erhvervskomm, engelsk, kand.2år
+5592 : Erhvervsspr.-internat. erhvervskomm, fransk, kand.2år
+5593 : Italiensk, cand.ling.merc.2år
+5594 : Virksomhedskommunikation (engelsk), kand.2år
+5595 : Russisk, kand.2år
+5596 : Erhvervsspr.-internat. erhvervskomm, spansk, kand.2år
+5597 : Erhvervsspr.-internat. erhvervskomm, tysk, kand.2år
+5598 : Datalingvistik, kand.2år
+5599 : Sproglig informatik, kand.2år
+5600 : Forskole, musikkonservatorium
+5601 : Hovedskole (musik)
+5604 : Diplomklasse (musik)
+5605 : Diplomklasse-orgel (musik)
+5606 : HA international shipping og handel, bach.
+5607 : Musikpædagog
+5608 : Musikledelse, musikpædagog
+5609 : Musikpædagog almen
+5610 : Internat. virksomhedskommunikation, engelsk, kand.
+5611 : Solist musisk, instrumental/vokal
+5613 : Musikteoretisk speciale
+5615 : Komponistklasse
+5616 : Musikpædagogik, organister
+5617 : Dirigentklasse (musik)
+5620 : Operaakademi
+5621 : Internat. virksomhedskommunikation, engelsk, kand.2år
+5622 : Fransk-internat. virksomhedskommunikation, kand.2år
+5623 : Internat. virksomhedskommunikation, tysk, kand.2år
+5624 : Internat. virksomhedskommunikation, spansk, kand.2år
+5630 : Erhvervssproglig korrespondent una
+5631 : Erhvervssproglig korrespondent, engelsk
+5632 : Erhvervssproglig korrespondent, fransk
+5633 : Erhvervssproglig korrespondent, italiensk
+5635 : Erhvervssproglig korrespondent, russisk
+5636 : Erhvervssproglig korrespondent, spansk
+5637 : Erhvervssproglig korrespondent, tysk
+5651 : HA(jur.) erhvervsøkonomi-jura, bach.
+5652 : Erhvervsøkonomi og jura, cand.merc.(jur.)2år
+5653 : Erhvervsøkonomi og politik, kand.2år
+5654 : HA erhvervsøkonomi og jura, bach.
+5656 : HA(it) erhvervsøkonomi-informationsteknologi, bach.
+5657 : Erhvervsøkonomi og informationsteknologi, kand.2år
+5658 : Erhvervsøkonomi og jura, cand.merc.2år
+5661 : HA sprog, bach.
+5662 : Interpret, cand.merc.2år
+5663 : HA (int.) erhvervsøkonomi med tysk, bach.
+5666 : HA(mat.) erhvervsøkonomi-matematik, bach.
+5667 : Erhvervsøkonomi og matematik, kand.2år
+5670 : Erhvervssprog 2 sprog, korrespondent
+5671 : Erhvervssprog engelsk-fransk, korrespondent
+5672 : Erhvervssprog engelsk-tysk, korrespondent
+5673 : Erhvervssprog fransk-tysk, korrespondent
+5674 : Erhvervssprog engelsk-russisk, korrespondent
+5675 : Erhvervssprog engelsk-spansk, korrespondent
+5676 : Erhvervssprog fransk-spansk, korrespondent
+5677 : Erhvervssprog tysk-spansk, korrespondent
+5678 : Erhvervssprog engelsk-italiensk, korrespondent
+5679 : Erhvervssprog fransk-italiensk, korrespondent
+5680 : Cand.ling.merc.2år una
+5681 : Erhvervssprog tysk-italiensk, korrespondent
+5682 : Erhvervssprog tysk-russisk, korrespondent
+5683 : Kommunikation, prof.bach.
+5684 : Kristendom, kultur og kommunikation, prof.bach.
+5685 : Økonomi og informationsteknologi, prof.bach.
+5686 : Erhvervssprog og IT markedskommunikation, prof.bach.
+5687 : Procesøkonomi og værdikædeledelse, prof.bach.
+5688 : Skuespil
+5689 : Dans og koreografi
+5690 : Scenekunstnerisk produktion
+5692 : Iscenesættelse
+5695 : Tegnsprogstolkning, overbygning
+5698 : Musical
+5700 : HA almen erhvervsøkonomi, bach.
+5701 : HA informatik, bach.
+5702 : HA kommunikation, bach.
+5703 : Erhvervsøkonomi, kand.2år
+5704 : HA sprog, bach.
+5705 : Erhvervsøkonomi, ph.d.
+5706 : Natur- og kulturformidling, prof.bach.
+5707 : Registreret revisor
+5708 : Revisorkandidat, kand.2år
+5709 : HA erhvervsanalyse, bach.
+5710 : HD-1.del
+5711 : HA turisme, bach.
+5712 : HA(fil.) erhvervsøkonomi-filosofi, bach.
+5713 : HA international business, bach.
+5714 : HA erhvervsøkonomi og service management, bach.
+5715 : Leisure management, prof.bach.
+5716 : HA(psyk) erhvervsøkonomi-psykologi, bach.
+5717 : Erhvervsøkonomi og psykologi, kand.2år
+5718 : HA erhvervsøkonomi-sports management, bach.
+5719 : Afsætningsøkonomi og udenrigshandel, HD-2.del
+5720 : Offentlig virksomhedsøkonomi, HD-2.del
+5721 : Afsætningsøkonomi, HD-2.del
+5722 : Finansiering, HD-2.del
+5723 : Forsikring, HD-2.del
+5724 : Organisation, HD-2.del
+5725 : Regnskabsvæsen, HD-2.del
+5726 : Udenrigshandel, HD-2.del
+5727 : Indkøbs- og transportøkonomi, HD-2.del
+5728 : Informatik, HD-2.del
+5729 : Miljø-revision, HD-2.del
+5730 : Retail and key account, HD-2.del
+5731 : Registreret revisor
+5732 : Finansiel rådgivning, HD-2.del
+5733 : Interkulturel markedskommunikation, bach.
+5734 : HA(soc.) erhvervsøkonomi-sociologi, bach.
+5735 : Journalist, prof.bach.
+5736 : Fotojournalist, prof.bach.
+5737 : Service management, kand.2år
+5738 : Maskinintelligens, kand.2år
+5739 : Datahåndtering, kand.2år
+5740 : Pædagogik, kand.2år (DPU)
+5741 : Psykologi-pædagogik, kand.2år (DPU)
+5742 : Pædagogik faglig , kand.2år (DPU)
+5743 : Humanistisk pædagogik, kand.2år (DPU)
+5744 : Matematik-nat.-pædagogik, kand.2år (DPU)
+5745 : Pædagogik, ph.d. (DPU)
+5746 : Diplomuddannelse i pædagogik (DPU)
+5747 : Diplomuddannelse, psykologi-pædagogisk
+5748 : Diplomuddannelse, humanistisk pædagogik (DPU)
+5749 : Diplomuddannelse, matematik-nat.-pædagogik (DPU)
+575 : Levnedsmiddel/husholdning, ivu (mvu)
+5750 : Officer A-linien, hæren
+5751 : Business administration (MBA), master
+5752 : Public administration (MPA), master
+5753 : Public management (MPM), master
+5754 : Public health (MPH), master
+5755 : Officer B-linien, hæren
+5756 : Technology management (MTM), master
+5757 : Public policy (MPP), master
+5758 : Multimedia arts (MMA), master
+5759 : Multimedia science (MMS), master
+5760 : Officer A-linien, søværnet
+5764 : HA erhvervsøkonomi og projektledelse, bach.
+5765 : Officer B-linien, søværnet
+5769 : Organisatorisk læring, bach.
+5770 : Officer A-linien, flyvevåbnet
+5774 : Interaktionsdesign, kand.2år
+5775 : Officer B-linien, flyvevåbnet
+5779 : Human resource management, kand.2år
+5780 : HA i digital ledelse, bach.
+5781 : HA japansk, bach.
+5782 : Japansk, cand.merc.2år
+5783 : HA(pol.) international erhvervsøkonomi-politik, bach.
+5784 : Politisk kommunikation og ledelse, kand.2år
+5785 : Erhvervsøkonomi og erhvervssprog, kand.2år
+5786 : Erhvervsøkonomi-filosofi, kand.2år
+5787 : Kommunikationsledelse og erhvervsøkonomi, cand.merc.2år
+5788 : Management creative business processes, kand.2år
+5789 : Organisation, innovation og entrepreneurship, kand.2år
+5790 : Dansk tegnsprog og tolkning, prof.bach.
+5791 : Tegnsprogstolkning, overbygning
+5792 : Language administration (MLA), master
+5793 : Engelsk teknisk kommunikation (MTC), master
+5794 : Gymnasiepædagogik (MIG), master
+5795 : Computer-mediated communication (MCC), master
+5796 : Læreprocesser (MLP), master
+5797 : HA kinesisk, bach.
+5798 : Information technology (MI), master
+580 : Jordbrug/fiskeri, ivu (mvu)
+5800 : Film-, tv- og videoproduktion
+5801 : Fotograf, film og tv produktion
+5802 : Tonemester, film og tv produktion
+5803 : Instruktør, film og tv produktion
+5804 : Filmklipper, film og tv produktion
+5805 : Manuskriptuddannelse, film og tv produktion
+5806 : Filmproducer, film og tv produktion
+5807 : Animationsuddannelse, film, tv og interaktive medier
+5808 : Animation, prof.bach.
+5809 : Billedkunst, kand.3år
+5810 : Billedkunst og bildende kunst, videregående
+5811 : Billedkunst, grund- og normaluddannelse
+5812 : Billedkunst, kunstteori og formidling, kand.2år
+5813 : Billedkunst, bach.
+5814 : Marketing management, HD-2.del
+5815 : TV-uddannelsen
+5816 : Tv studieproducer / flerkamerainstruktør
+5817 : Tv tilrettelæger / dokumentarinstruktør
+5818 : Supply chain management, HD-2.del
+5820 : Grafik, videregående
+5821 : Maleri, videregående
+5822 : Skulptur, videregående
+5823 : Mur- og rumkunst, videregående
+5824 : Kunstteori og -formidling, kand.
+5830 : Restaureringsteknik
+5831 : Konservering og restaurering, bach.
+5832 : Konservator una, kand.2år
+5833 : Konserveringsteknik, monumentalkunst, bach.
+5834 : Konserveringsteknik, naturhistorisk, bach.
+5835 : Konserveringsteknik una, bach.
+5836 : Konserveringsteknik, bach.
+5837 : Konserveringsteknik, kulturhistorisk, bach.
+5838 : Konserveringsteknik, grafisk, bach.
+5839 : Konservator, ph.d.
+5840 : Konservator kunst, kand.2år
+5841 : Konservator kulturhistorisk, kand.2år
+5842 : Konservator grafisk, kand.2år
+5843 : Konservator monumentalkunst, kand.2år
+5844 : Konservator naturhistorisk, kand.2år
+5845 : Teaterteknik
+5846 : Teaterteknik, lys
+5847 : Teaterteknik, lyd
+5848 : Teaterteknik, produktion (scene)
+5849 : Teaterinstruktør
+585 : Transport mv., ivu (mvu)
+5850 : Scenografi
+5851 : Dramatisk skrivekunst
+5852 : Teaterteknik, regi
+5855 : Skuespiller
+5856 : Dans
+5857 : Dansepædagog
+5858 : Danseformidling
+5860 : Officer, hæren
+5865 : Officer, søværnet
+5870 : Officer, flyvevåbnet
+5875 : V.U.T., flyvevåbnet
+5880 : V.O.U., hæren
+5885 : V.O.U., søværnet
+5890 : P.O.G.U., flyvevåbnet
+5895 : Musikprofil
+5899 : Kor- og ensembleledelse
+590 : Social/sundhed, ivu (mvu)
+5900 : Konservatorieuddannelse 1 (musik)
+5907 : Konservatorieuddannelse 3 (musik)
+5908 : Rytmisk musik, musikpædagog
+5910 : Konservatorieuddannelse 2 (musik)
+5911 : Rytmisk musik, lydtekniker (gl)
+5912 : Music management, bach.
+5913 : Musikledelse, kand.2år
+5916 : Tidlig musik, kand.2år
+5919 : Rytmisk musik, solistklasse
+5920 : Musik-sang, rytmisk musikpædagog
+5923 : Tonemester (musik) (gl.)
+5927 : Musik og bevægelse/performance, bach.
+5928 : Musikledelse, bach.
+5929 : Musik og bevægelse/performance, kand.
+5931 : Internat. virksomhedskommunik,eng.-internat.marketing, bach.
+5932 : Tysk erhvervssprog og europæiske studier, bach.
+5933 : Internat. virksomhedskommunik, eng.-europæiske studier, bach.
+5934 : Internat. virksomhedskommunik, fransk-europæiske studier, bach.
+5935 : Internat. virksomhedskommunik, spansk-europæiske studier, bach.
+5936 : Internat. virksomhedskommunik., tysk - kommunikation, bach.
+5937 : Internat. virksomhedskommunik., spansk - kommunikation, bach.
+5938 : Internat. virksomhedskommunik., engelsk - kommunikation, bach.
+5939 : Internat. virksomhedskommunik., fransk - kommunikation, bach.
+5940 : Engelsk og organisationskommunikation, bach.
+5941 : Fransk erhvervssprog kombineret una, bach.
+5942 : Tysk erhvervssprog kombineret una, bach.
+5943 : Erhvervssprog og kulturformidling, bach.
+5944 : Erhvervssprog og IT, bach.
+5945 : Erhvervssprog og pædagogik, bach.
+5946 : Engelsk erhvervssprog kombineret una, bach.
+5947 : Markedsføringsøkonomi og engelsk erhvervssprog, bach.
+5948 : Information management, bach.
+5949 : Spansk erhvervssprog kombineret una, bach.
+595 : Forsvar, ivu (mvu)
+5950 : Erhvervssprog, bach.
+5951 : Engelsk-fransk erhvervssprog, bach.
+5952 : Engelsk-italiensk erhvervssprog, bach.
+5953 : Engelsk-russisk erhvervssprog, bach.
+5954 : Engelsk-spansk erhvervssprog, bach.
+5955 : Engelsk-tysk erhvervssprog, bach.
+5956 : Fransk-italiensk erhvervssprog, bach.
+5957 : Fransk-spansk erhvervssprog, bach.
+5958 : Fransk-tysk erhvervssprog, bach.
+5959 : Tysk-italiensk erhvervssprog, bach.
+5960 : Tysk-russisk erhvervssprog, bach.
+5961 : Tysk-spansk erhvervssprog, bach.
+5962 : Erhvervsøkonomi-erhvervssprog, engelsk, cand.negot.2år
+5963 : Erhvervsøkonomi-erhvervssprog, fransk, cand.negot.2år
+5964 : Erhvervsøkonomi-erhvervssprog, tysk, cand.negot.2år
+5965 : Erhvervsøkonomi-erhvervssprog, spansk, cand.negot.2år
+5966 : Arabisk, cand.negot.2år
+5967 : Polsk, cand.negot.2år
+5968 : Erhvervsøkonomi-erhvervssprog, kinesisk, cand.negot.2år
+5969 : Erhvervsøk-erhv.spr, internat. turisme-fritidsman, kand.2år
+5970 : Internat. virksomhedskommunik., tysk-fransk, bach.
+5971 : Internat. virksomhedskommunik., tysk-spansk, bach.
+5972 : Internat. virksomhedskommunik., engelsk-fransk, bach.
+5973 : Internat. virksomhedskommunik., engelsk-spansk, bach.
+5974 : Internat. virksomhedskommunik., engelsk-tysk, bach.
+5975 : Internat. virksomhedskommunik., fransk-spansk, bach.
+5976 : International virksomhedskommunikation, engelsk, bach.
+5977 : International virksomhedskommunikation, fransk, bach.
+5978 : International virksomhedskommunikation, spansk, bach.
+5979 : International virksomhedskommunikation, tysk, bach.
+5980 : Hotelmanagement, bach.negot.
+5981 : Erhvervsøkonomi-erhvervssprog, kinesisk, bach.negot.
+5982 : Erhvervsøkonomi-erhvervssprog, engelsk, bach.negot.
+5983 : Fransk, bach.negot.
+5984 : Erhvervsøkonomi-erhvervssprog, tysk, bach.negot.
+5985 : Erhvervsøkonomi-erhvervssprog, spansk, bach.negot.
+5986 : Erhvervsøkonomi-erhvervssprog, arabisk, bach.negot.
+5987 : Polsk, bach.negot.
+5988 : Engelsk-amerikanske studier erhvervssproglig, bach.
+5989 : Erhvervsøk.-erhv.spr., internat. turisme-fritidsman., bach.negot.
+5990 : Erhvervssprog og medie, bach.
+5991 : Erhvervssprog og europæiske studier, bach.
+5992 : International marketing erhvervssproglig, bach.
+5993 : Kommunikation, bach.
+5994 : Russisk-spansk erhvervssprog, bach.
+5995 : Folkemusik
+5996 : Tidlig musik, diplom 5år
+600 : Kandidat una, ivu (lvu)
+6000 : Kandidatsupplering (DPU)
+6001 : Samfundsvidenskab, basis (bach.) (AAU)
+6002 : Teknik-naturvidenskab, basis (bach.) (AAU)
+6003 : Sproglig-pædagogik, basis (bach.) (AAU)
+6004 : Musisk-æstetisk, basis (bach.) (AAU)
+6005 : Samfundsvidenskab, basis (kand.) (AAU)
+6006 : Teknik- naturvidenskab, basis (kand.) (AAU)
+6007 : Sproglig pædagogik, basis (kand.) (AAU)
+6008 : Musisk-æstetisk, basis (kand.) (AAU)
+6009 : Sundhedsfremme og sundhedsstrategier, kand.2år
+6010 : Musikterapi, kand.
+6011 : Samfundsvidenskab, kand. (AAU)
+6017 : Interaktionsdesign, bach.
+6018 : International virksomhedskommunikation, bach.
+6020 : Kirkemusiker Orgel og Korledelse (KMOK)
+6021 : Basislinje orgel
+6022 : Kirkemusiker
+6023 : Basislinje sang
+6024 : Kirkemusiker Sang (KMS)
+6025 : Kirkemusiker Sang og Korledelse (KSOK)
+6026 : Eksamenslinje Klokkenist
+6027 : Diplomlinje Klokkenist
+6029 : Musikterapi, kand.2år
+6030 : Musikterapi, bach.
+6031 : Musikterapi, kand.2år
+6040 : Europæiske studier, bach.
+6045 : Internat. virksomhedskommunikation, spansk, bach.
+6046 : Internat. virksomhedskommunikation, engelsk, bach.
+6047 : Internat. virksomhedskommunikation, fransk, bach.
+6048 : Internat. virksomhedskommunikation, tysk, bach.
+6050 : Medialogi, bach.
+6051 : Digital design og interaktive teknologier, bach.
+6055 : Medialogi, kand.2år
+6061 : Civil- og akademiingeniører una (AAU)
+6062 : Anlæg, civilingeniør
+6063 : Bygning, civilingeniør (AAU)
+6064 : Industri, civilingeniør
+6065 : Information, civilingeniør
+6070 : Humanistisk kombination, kand.
+6075 : Samfundsvidenskab kombination, kand.2år
+6080 : Teknisk kombination, kand. (AAU)
+6085 : Naturvidenskab kombineret, kand. (AAU)
+6100 : Politik og international forvaltning, kand.2år
+6101 : Naturvidenskab, bach. (RUC)
+6102 : Humanistisk, bach. (RUC)
+6103 : Samfundsvidenskab, bach. (RUC)
+6104 : Naturvidenskab, basis (kand.) (RUC)
+6105 : Humanistisk, basis (kand.) (RUC)
+6106 : Samfundsvidenskab, basis (kand.) (RUC)
+6107 : Humanistisk-teknologisk, bach. (RUC)
+6110 : Forvaltning, kand.2år
+6112 : Miljø og ressource management, kand.2år
+6113 : Offentlig driftsøkonomi, kand.2år (RUC)
+6115 : Tek-Sam - miljøplanlægning, kand.2år
+6116 : Tek-Sam - miljøplanlægning, overbygning (RUC)
+6118 : Globale studier, kand.2år
+6119 : Globale studier, overbygning (RUC)
+6120 : Administrativ databehandling, kand.2år
+6125 : Performance-design, kand.2år
+6127 : Medicinalbiologi, kand.2år
+6128 : Miljøbiologi, kand.2år
+6129 : Molekylær biologi, kand.2år (RUC)
+6130 : Almen biologi, kand.2år
+6137 : EU studier, kand.2år (RUC)
+6140 : Psykologi, kand.2år (RUC)
+6141 : Politik og Administration, kand.2år
+6142 : Socialvidenskab, kand.2år
+6143 : Kommunikation, kand.2år
+6144 : Internationale udviklingsstudier, kand.2år
+6145 : Kommunikation, overbygning (RUC)
+6147 : Journalistik, kand.2år (RUC)
+6148 : Kultur- og sprogmødestudier, kand.2år
+6150 : Virksomhedsstudier, kand.2år
+6158 : Global udvikling, kand.2år
+6181 : Pædagogik, grunduddannelse (kand.)
+6182 : Humanistisk, grunduddannelse (kand.)
+6183 : Kunstnerisk, grunduddannelse (kand.)
+6184 : Samfundsvidenskab, grunduddannelse (kand.)
+6185 : Naturvidenskab, grunduddannelse (kand.)
+620 : Pædagogik, ivu (lvu)
+6200 : Agrobiologi, kand.2år
+6230 : Landbrug, kand.2år
+6231 : Jordbrugsøkonomi, kand.2år
+6233 : Mejeribrug, kand.2år
+6235 : Levnedsmiddel, kand.2år
+6237 : Havebrugsvidenskab, kand.2år
+6239 : Landskabsarkitektur, kand.2år
+6241 : Skovbrugsvidenskab, kand.2år
+625 : Humanistisk/teologisk, ivu (lvu)
+6260 : IT una, kand.2år
+6261 : IT-software, kand.2år
+6262 : Digital design og kommunikation, kand.2år
+6263 : Digital innovation og management, kand.2år
+6264 : Tværfaglig IT-udvikling, kand.2år
+6265 : Softwareudvikling, kand.2år
+6266 : Spil, kand.2år
+6267 : Neuroscience og neuroimaging (SDC), kand.2år
+6268 : Informatik, kand.2år
+6269 : Elektroteknologi, cand.polyt.2år
+6270 : Elektroteknologi, cand.scient.tech.2år
+6285 : Teknisk informationsteknologi, civilingeniør 2år
+6296 : Musikterapi, fællessemester (kand.) (AAU)
+6297 : Humanistisk, fællesseminar (kand.) (AAU)
+6298 : Musikterapi, fællessemester (bach.)
+6299 : Humanistisk, fællessemester (bach.) (AAU)
+630 : Kunstnerisk, ivu (lvu)
+6300 : Forhistorisk arkæologi, kand.
+6302 : Dansk-nordisk, kand.
+6303 : Dramaturgi, kand.
+6304 : Engelsk, kand.
+6305 : Eskimologi, kand.
+6306 : Etnografi og antropologi, kand.
+6307 : Etnologi europæisk, kand.
+6308 : Filosofi, kand.
+6309 : Medievidenskab, kand.
+6310 : Finsk, kand.
+6311 : Nordisk folkemindevidenskab, kand.
+6312 : Fransk, kand.
+6313 : Islamiske studier, kand.2år
+6314 : Historie, kand.
+6315 : Informatik, kand.
+6316 : Idehistorie, kand.
+6317 : Indiansk sprog og kultur, kand.
+6318 : Indologi-indisk, kand.
+6319 : Iransk, kand.
+6320 : Italiensk, kand.
+6321 : Mellemøststudier, kand.2år
+6322 : Arkæologi klassisk, kand.
+6323 : Klassisk filologi, kand.
+6324 : Kunsthistorie, kand.
+6325 : Sprogvidenskab, kand.
+6326 : Litteraturhistorie, kand.
+6327 : Litteraturvidenskab, kand.
+6328 : Arkæologi middelalder, kand.
+6329 : Musik, kand.
+6330 : Nederlandsk, kand.
+6331 : Nygræsk, kand.
+6332 : Nærorientalsk oldtidskultur, kand.
+6334 : Portugisisk, kand.
+6335 : Pædagogik, kand.
+6336 : Religionsvidenskab, kand.
+6337 : Religionshistorie, kand.
+6338 : Rumænsk, kand.
+6340 : Semitisk, kand.
+6342 : Slavisk sprog og kultur, kand.
+6343 : Spansk, kand.
+6344 : Teatervidenskab, kand.
+6346 : Tysk, kand.
+6347 : Ungarsk, kand.
+6348 : Østasiatisk sprog og kultur, kand.
+6349 : Audiologopædi, kand.
+6350 : Basisforløb, åben grunduddannelse (kand.)
+6351 : Historisk speciale, åben grunduddannelse (kand.)
+6352 : Kvinde-teknologikultur
+6353 : Retorik, kand.
+6375 : Humanistisk, supplering 2 år
+6380 : Humanistisk, sidefag
+6381 : Samfundsvidenskab, sidefag
+6382 : Naturvidenskab, sidefag
+6383 : Pædagogik, sidefag
+6384 : Musisk-æstetisk, sidefag
+639 : Samfundsvidenskab, ivu (lvu)
+6393 : Pædagogik, supplering
+6394 : Musisk-æstetisk, supplering
+6395 : Teknisk, supplering
+6396 : Naturvidenskab, supplering
+6398 : Samfundsvidenskab, supplering
+6399 : Humanistisk, supplering
+6400 : Audiologopædi, kand.2år
+6401 : Migrationsstudier, kand.2år
+6402 : Sprogpsykologi, kand.2år
+6405 : Dramaturgi, kand.2år
+6406 : Engelsk, kand.2år
+6407 : Eskimologi, kand.2år
+6408 : Antropologi, kand.2år
+6409 : Europæisk etnologi, kand.2år
+6410 : Filmvidenskab, kand.2år
+6411 : Filosofi, kand.2år
+6412 : Finsk, kand.2år
+6413 : Marinarkæologi, kand.2år
+6414 : Folkemindevidenskab, kand.2år
+6415 : Arkæologi forhistorisk, kand.2år
+6416 : Fransk sprog, litteratur og kultur, kand.2år
+6417 : Historie, kand.2år
+6418 : Informatik, kand.2år
+6419 : Idehistorie, kand.2år
+6420 : Indiansk sprog og kultur, kand.2år
+6421 : Indologi, kand.2år
+6422 : Italiensk sprog og kultur, kand.2år
+6423 : Iransk, kand.2år
+6424 : Arbejdslivsstudier, kand.2år
+6425 : Arkæologi klassisk, kand.2år
+6426 : Klassisk filologi, kand.2år
+6428 : Kunsthistorie, kand.2år
+6429 : Litteraturhistorie, kand.2år
+6430 : Litteraturvidenskab, kand.2år
+6431 : Middelalder- og renæssancearkæologi, kand.2år
+6432 : Musikvidenskab/Musik, kand.2år
+6433 : Nederlandsk, kand.2år
+6434 : Dansk, kand.2år
+6435 : Nordisk sprog og litteratur, kand.2år
+6436 : Nærorientalsk oldtidskultur, kand.2år
+6437 : Portugisisk, kand.2år
+6438 : Pædagogik, kand.2år
+6439 : Religion studier/religionsvidenskab, kand.2år
+6440 : Religionssociologi, kand.2år
+6441 : Semitisk, kand.2år
+6442 : Slavisk sprog og kultur, kand.2år
+6443 : Spansk sprog og kultur, kand.2år
+6444 : Sprogvidenskab og lingvistik, kand.2år
+6445 : Teatervidenskab og performancestudier, kand.2år
+6446 : Tysk sprog, litteratur og kultur, kand.2år
+6447 : Ungarsk, kand.2år
+6448 : Østasiatisk sprog og kultur, kand.2år
+6449 : Æstetik og kultur, kand.2år
+645 : Naturvidenskab, ivu (lvu)
+6450 : Kultur og kulturformidling, kand.2år
+6451 : Sprog og international virksomhedskommunikation, kand.2år
+6452 : Multimedia arts, kand.2år
+6453 : Retorik, kand.2år
+6454 : Dansk og international virksomhedskommunikation, kand.
+6455 : Turisme, kand.2år
+6456 : Kulturformidling, kand.
+6457 : Internationale studier, kand.2år
+6458 : Kultur, kommunikation og globalisering, kand.2år
+6459 : Bæredygtig kulturarvsmanagement, kand.2år
+6460 : Humanistisk kombination, kand.2år
+6490 : Pædagogik, bifag
+6491 : Humanistisk, bifag
+6492 : Kunstnerisk, bifag/sidefag
+6493 : Samfundsvidenskab, bifag/sidefag
+6494 : Naturvidenskab, bifag/sidefag
+6500 : Audiologopædi, bach.
+6502 : Mellemøstens sprog og samfund-Nærorientalsk arkæologi, bach.
+6504 : Sprogvidenskab og lingvistik, bach.
+6505 : Mellemøstens sprog og samfund - Assyriologi, bach.
+6506 : Medievidenskab, bach.
+6507 : Interkulturel pædagogik og dansk som andetsprog, bach.
+6508 : Interkulturel pædagogik og arabisk, bach.
+6510 : Dramaturgi, bach.
+6512 : Engelsk, bach.
+6516 : Antropologi, bach.
+6518 : Etnologi europæisk, bach
+6520 : Film- og medievidenskab, bach.
+6522 : Filosofi, bach.
+6524 : Finsk, bach.
+6526 : Folkemindevidenskab, bach.
+6528 : Arkæologi forhistorisk, bach.
+6530 : Fransk sprog, litteratur og kultur, bach.
+6532 : Bibliotekskundskab og videnskommunikation, bach.
+6534 : Historie, bach.
+6536 : Kommunikation og digitale medier, bach.
+6538 : Kommunikation og IT, bach.
+6540 : Idehistorie, bach.
+6542 : Indianske sprog og kulturer, bach.
+6544 : Asienstudier, Indologi, bach.
+6546 : Informationsvidenskab, it og interaktionsdesign
+6548 : Asienstudier, Indonesisk/Sydøstasienstudier, bach.
+6550 : Italiensk sprog og kultur, bach.
+6552 : Persisk, bach.
+6554 : Eskimologi, bach.
+6555 : Asienstudier, Thai/Sydøstasienstudier, bach.
+6556 : Arkæologi klassisk, bach.
+6558 : Rumænsk, bach.
+6559 : Asienstudier, Japanstudier, bach.
+6560 : Klassisk filologi, bach.
+6561 : Asienstudier, Kinastudier, bach.
+6562 : Film- og medievidenskab, bach.
+6564 : Asienstudier, Koreastudier, bach.
+6566 : Asienstudier, Tibetologi, bach.
+6568 : Anvendt filosofi, bach.
+6570 : Humanistisk una, bach.
+6572 : Uddannelsesvidenskab, kand.2år
+6574 : Indoeuropæisk, bach.
+6576 : Europæisk business, bach.
+6578 : Kunsthistorie, bach.
+6580 : Litteraturhistorie, bach.
+6582 : Litteraturvidenskab, bach.
+6584 : Middelalder- og renæssancearkæologi, bach.
+6586 : Musik/Musikvidenskab, bach.
+6588 : Nederlandsk, bach.
+659 : Teknisk, ivu (lvu)
+6590 : Dansk, bach.
+6592 : Nordisk sprog og litteratur, bach.
+6594 : Mellemøstens sprog og samfund - Ægyptologi, bach.
+6596 : Øst- og sydøsteuropastudier, balkanstudier, bach.
+6598 : Nærorientalsk oldtidskultur, bach.
+6599 : Signalbehandling og akustik, kand.2år
+6600 : Mellemøstens sprog og samfund-arabisk, bach.
+6602 : Mellemøstens sprog og samfund-hebraisk, bach.
+6604 : Portugisisk, bach.
+6606 : Pædagogik, bach.
+6608 : Uddannelsesvidenskab, bach.
+6610 : Mellemøstens sprog og samfund-persisk, bach.
+6612 : Religionshistorie, bach.
+6614 : Mellemøstens sprog og samfund-tyrkisk, bach.
+6616 : Semitisk, bach.
+6618 : Sprog og internationale studier-engelsk, bach.
+6620 : Østeuropastudier, bach.
+6622 : Mellemøstens sprog og samfund, bach.
+6632 : Spansk og spanskamerikanske studier, bach.
+6640 : Teater- og performancestudier, bach.
+6642 : Tysk sprog, litteratur og kultur, bach.
+6644 : Ungarsk, bach.
+6646 : Østasiatisk sprog og kultur, bach.
+6650 : Moderne Indien og Sydasienstudier, bach.
+6652 : Sprog og internationale studier-spansk, bach.
+6665 : Journalistik, bach.
+6666 : Retorik, bach.
+6668 : Europæisk business, HA i europæisk business, bach.
+6670 : Religion studier/videnskab, bach.
+6672 : Multimedia, bach.
+6679 : Designkultur, bach.
+6680 : Designkultur og økonomi, bach.
+6681 : Art and technology, bach.
+6690 : Arkitekt, bach.
+6700 : Oplevelsesøkonomi, kand.2år
+6702 : Pædagogik og uddannelsesstudier, kand.2år
+6703 : Østeuropastudier, balkanistik, kand.2år
+6714 : Amerikanske studier, kand.2år
+6716 : Anthropology and people centred business, kand.2år
+6718 : Anvendt kulturanalyse, kand.2år
+6721 : Film- og medievidenskab, kand.2år
+6726 : Medievidenskab, kand.2år
+6732 : Visuel kultur, kand.2år
+6740 : IT og kognition, kand.2år
+6742 : Kommunikation og IT, kand.2år
+6744 : Kognition og kommunikation, kand.2år
+6746 : Sydøstasienstudier, Indonesisk, kand.2år
+675 : Levnedsmiddel/husholdning, ivu (lvu)
+6758 : Anvendt filosofi, kand.2år
+6760 : Humanistisk kombination, kand.2år
+6763 : Græsk, klassisk, kand.2år
+6765 : Græsk, middelalder, kand.2år
+6766 : Klassisk filologi, kand.2år
+6769 : Latin, klassisk, kand.2år
+6771 : Latin, middelalder, kand.2år
+6775 : Oldtidskundskab, kand.2år
+6777 : Kristendomshistorie, kand.2år
+6783 : Litteraturvidenskab, kand.2år
+6797 : Grækenlandsstudier, kand.2år
+680 : Jordbrugsvidenskab, ivu (lvu)
+6800 : Asienstudier (Indien og Sydasien), kand.2år
+6801 : Nærorientalsk arkæologi, kand.2år
+6802 : Assyriologi, kand.2år
+6803 : Ægyptologi, kand.2år
+6804 : Designstudier, kand.2år
+6806 : Diakoni, kand.2år
+6810 : Diakoni og socialpædagogik, prof.bach.
+6813 : Religionshistorie, kand.2år
+6814 : Religion studier/religionsvidenskab, kand.2år
+6815 : Religionssociologi, kand.2år
+6816 : Mellemøstens sprog og samfund, kand.2år
+6817 : Mellemøstens sprog og samfund-arabisk, kand.2år
+6818 : Mellemøstens sprog og samfund-persisk, kand.2år
+6819 : Mellemøstens sprog og samfund-hebraisk, kand.2år
+6820 : Mellemøstens sprog og samfund-tyrkisk, kand.2år
+6822 : Religionsvidenskab, kand.2år
+6823 : Polsk sprog og kultur, kand.2år
+6825 : Russisk sprog og kultur, kand.2år
+6829 : Tjekkisk sprog og kultur, kand.2år
+6839 : Indoeuropæisk, kand.2år
+6847 : Asienstudier, Japanstudier, kand.2år
+6849 : Asienstudier, Kinastudier, kand.2år
+6853 : Koreastudier, kand.2år
+6855 : Sydøstasienstudier, Thai, kand.2år
+6857 : Tibetologi, kand.2år
+6861 : Tværkulturelle studier, kand.2år
+6862 : Designledelse, kand.2år
+6865 : Journalistik, kand.2år
+6870 : European journalism, kand.2år
+6873 : Europas religiøse rødder, kand.2år
+6880 : Læring og forandringsprocesser, kand.2år
+6881 : Pædagogisk antropologi og globalisering, kand.2år
+6890 : Arkitekt, kand.2år
+690 : Social/sundhed, ivu (lvu)
+6900 : Rumlige design og samfund, kand.2år
+6901 : Socialt entreprenørskab og management, kand.2år
+6906 : E-business, kand.2år
+6930 : Virksomhedsledelse, kand.2år
+6941 : International virksomhedskommunikation, kand.2år
+6942 : Offentlig ledelse og social udvikling (SDC), kand.2år
+695 : Forsvar, ivu (lvu)
+6987 : Sundhed og informatik, kand.2år
+6990 : Humanistisk una, kand.2år
+6991 : Samfundsvidenskab una, kand.2år
+6992 : Sundhedsvidenskab una, kand.2år
+700 : Bachelor una, ivu (bachelor)
+7012 : Socialvidenskab, kand.
+702 : Humanistisk/teologisk, ivu (bachelor)
+7020 : Forsikringsvidenskab, kand.
+703 : Kunstnerisk, ivu (bachelor)
+7030 : Forsikringsvidenskab, ph.d.
+704 : Naturvidenskab, ivu (bachelor)
+7040 : Statsvidenskab, kand.
+7045 : Statsvidenskab, kand.2år
+705 : Samfundsvidenskab, ivu (bachelor)
+7050 : Statsvidenskab, ph.d.
+706 : Teknisk, ivu (bachelor)
+7060 : Økonomi, kand.
+7061 : Miljø og ressource management, bach.
+7062 : Økonomi, bach.
+7063 : Plan, by og proces, kand.2år
+7065 : Økonomi, kand.2år
+707 : Levnedsmiddel/ernærring, ivu (bachelor)
+7070 : Økonomi, ph.d.
+7079 : International ret, økonomi og ledelse, kand.2år
+708 : Jordbrugsvidenskab, ivu (bachelor)
+7080 : Jura, kand.
+7081 : Jura, bach.
+7085 : Jura, kand.2år
+7086 : Jura, cand.soc.2år
+709 : Sundhed, ivu (bachelor)
+7090 : Jura, ph.d.
+7100 : Politik og økonomi, bach
+7101 : Statskundskab, kand.2år
+7102 : Samfundsvidenskab-statsforvaltning, kand.
+7103 : Statskundskab, bach.
+7104 : Samfundsvidenskab, bach.
+7107 : International sikkerhed og folkeret, kand.2år
+7108 : Samfundsfag, bach.
+7109 : Politik og administration, bach.
+7111 : Komparativ politik og velfærdsstudier, kand.2år
+7112 : Politik og administration, kand.2år
+7114 : Samfundsfag, cand.mag.2år
+7115 : Forvaltning og datalogi, kand.
+7116 : Samfundsfag, cand.soc.2år
+7120 : Samfundsvidenskab, ph.d.
+7130 : Sociologi, kand.
+7131 : Sociologi, bach.
+7132 : Sociologi og kulturanalyse, bach.
+7133 : Kultursociologi, kand.2år
+7134 : Socialvidenskab, bach.
+7135 : Sociologi, kand.2år
+7136 : By, bolig og bosætning, kand.2år
+7137 : Innovation og digitalisering, bach.
+7138 : Optometri og synsvidenskab, kand.2år
+7139 : Klinisk sygepleje, kand.2år
+7140 : Sociologi, ph.d.
+7142 : Jordemodervidenskab, kand.2år
+7143 : Sikkerheds- og risikoledelse, kand.2år
+7144 : Ergoterapi, kand.2år
+7145 : Socialt arbejde, kand.2år
+7146 : Avanceret udvikling i socialt arbejde, kand.2år
+7147 : Sociale interventionsstudier, kand.2år
+7148 : Muskuloskeletal fysioterapi, kand.2år
+7150 : Psykologi, kand.
+7153 : Psykologi, bach.
+7155 : Psykologi, kand.2år
+7160 : Psykologi, ph.d.
+7170 : Medicin, kand.
+7171 : Medicin, kand.3år
+7172 : Medicin, bach.
+7173 : Kriminologi, kand.2år
+7174 : Biomedicin, kand.2år
+7175 : Humanbiologi, kand.2år
+7180 : Sundhedsvidenskab, ph.d.
+7181 : Global sundhed, kand.2år
+7183 : Fysioterapi, kand.2år
+7184 : Sundhed og informatik, bach.
+7185 : Folkesundhedsvidenskab, kand.2år
+7186 : Folkesundhedsvidenskab, bach.
+7187 : Sundhedsfaglig kandidatuddannelse, kand.2år
+7188 : Klinisk videnskab og teknologi, kand.2år
+7189 : Sygepleje, kand.2år
+7190 : Humaniora, ph.d.
+7195 : Biomedicinsk teknik, kand.2år
+720 : Ph.d. una, ivu (ph.d.)
+7200 : Kommunikation, ph.d.
+7205 : Samfundsvidenskab, kand.2år
+7207 : EU-studier, kand.2år
+721 : Pædagogisk, ivu (ph.d.)
+7215 : Odontologi, bach.
+722 : Humanistisk/teologisk, ivu (ph.d.)
+7220 : Odontologi, kand.2år
+723 : Kunstnerisk, ivu (ph.d.)
+7230 : Teologi, kand.
+7231 : Teologi, bach.
+7232 : Teologi, kand.2år
+7235 : Teologi, ph.d.
+724 : Naturvidenskab, ivu (ph.d.)
+725 : Samfundsvidenskab, ivu (ph.d.)
+726 : Teknisk, ivu (ph.d.)
+728 : Jordbrugsvidenskab, ivu (ph.d.)
+729 : Sundhed, ivu (ph.d.)
+7314 : Immunologi og inflammation, kand.2år
+7320 : Etnografi og antropologi, kand.
+7321 : Human security, kand.2år
+7322 : Markeds- og ledelsesantropologi, bach.
+7324 : Klinisk biomekanik, bach.
+7325 : Antropologi, bach.
+7335 : Antropologi, ph.d.
+7336 : Antropologi, kand.2år
+7360 : Kultursociologi, kand.
+7362 : Kultursociologi, cand.phil.
+7365 : Kultursociologi, ph.d.
+7415 : Lægemiddelvidenskab, bach.
+7420 : Farmaci, bach.
+7424 : Farmaceutisk videnskab, kand.2år
+7425 : Farmaci, kand.2år
+7427 : Medicinalkemi, kand.2år
+7430 : Lægemiddelvidenskab, kand.2år
+7489 : Rumænsk, kand.2år
+7600 : Assyriologi og sumerologi, kand.
+7601 : Amerikanske studier, kand.2år
+7602 : Amerikanske studier, kand.
+7610 : Berberisk, kand.
+7615 : Afrika områdestudier, bifag
+7620 : Afrikastudier, kand.2år
+7621 : Amerikanske studier, bach.
+7667 : Smykkeformgiver
+7745 : Generel pædagogik, kand.2år
+7746 : Dansk, kand.2år (DPU)
+7747 : Pædagogisk filosofi, kand.2år
+7748 : Pædagogisk antropologi, kand.2år
+7749 : Pædagogisk psykologi, kand.2år
+7750 : Pædagogisk sociologi, kand.2år
+7751 : Matematik, kand.2år (DPU)
+7752 : Didaktik, kand.2år
+7753 : Lifelong learning, policy - management, kand.2år
+7754 : IT-didaktisk design, kand.2år
+7840 : Grønlandsk, kand.
+7841 : Klassisk instrument-sang-ensemble, bach.
+7843 : Musikpædagogik ensemble-korledelse, bach.
+7845 : Rytmisk instrument-sang-ensemble, bach.
+7846 : Klasisk musikpædagog (AM), bach.
+7847 : Rytmisk musikpædagog (AM), bach
+7848 : Musikpædagogisk brobygning, bach.
+7849 : Elektronisk musik og lydkunst, bach.
+7850 : Kirkemusik, bach.
+7851 : Rytmisk musik, bach.
+7852 : Komponist, bach.
+7853 : Sangskrivning, bach.
+7854 : Musikteori, bach.
+7855 : Tonemester (musik), bach.
+7856 : Lydtekniker (musik), bach.
+7857 : Musikformidling, bach.
+7858 : Den individuelle musikuddannelse IM, bach.
+7859 : Folkemusik, bach.
+7860 : Musik og musikpædagogik, bach.
+7861 : Musik og musikpædagogik, kand.2år
+7862 : Musikpædagog, kand.2år
+7863 : Musik- og bevægelseslærer, kand.2år
+7864 : Solist musisk, komposition
+7885 : Æstetisk kulturarbejde, kand.
+7900 : Matematik-teknologi, ingeniør bach.
+7901 : Bæredygtigt design, ing.bach.
+7902 : Kemi og bioteknologi, ing.bach.
+7904 : Fysik og teknologi, ing.bach.
+7905 : Produktionsudvikling, ing.bach.
+7906 : Strategisk analyse og systemdesign, ingeniør bach.
+7907 : Elektronik og datateknik, ing.bach.
+7908 : Elektronik og IT, ing.bach.
+7909 : Internetteknologier og computersystemer, ing.bach.
+7910 : Robotteknologi, ing.bach.
+7911 : Mekatronik, ing.bach.
+7912 : Teknisk biomedicin, ing.bach.
+7914 : Innovation and business, ing.bach.
+7915 : Produktudvikling og innovation, ingeniør bach.
+7916 : Fysik og nanoteknologi, ing.bach.
+7917 : Geofysik og rumteknologi, ing.bach.
+7918 : Arkitektur og design,ing.bach
+7919 : Energiteknologi, ing.bach.
+7920 : Medicin med industriel speciale, bach.
+7921 : Miljøteknologi, ing.bach.
+7922 : Kemiteknologi, ing.bach.
+7923 : Software engineering, ing.bach.
+7924 : Bæredygtig bioteknologi, ing.bach.
+7925 : Sundhed-produkt, ingeniør bach.
+7926 : Byggeteknologi, ing.bach.
+7927 : Energi, ing.bach.
+7928 : Velfærdsteknologi, ing.bach.
+7929 : Lærings-og oplevelsesteknologi, ingeniør bach.
+7930 : Ingeniør bach. una
+7931 : Maskin - industri/produktion, ingeniør bach.
+7932 : Medicin og teknologi, ing.bach.
+7933 : Bioteknologi, ingeniør bach.
+7934 : Kemi-miljø, ingeniør bach.
+7935 : Bygge og anlæg, ingeniør bach.
+7936 : Design og innovation, ing.bach.
+7937 : Elektronik og IT, ingeniør bach.
+7938 : Nanoteknologi, ingeniør bach.
+7939 : IT-informatik, ingeniør bach.
+7940 : Infrastruktur, bach.
+7941 : Klassisk instrument-sang-ensemble, kand.2år
+7942 : IT, kommunikations- og medieteknologi, ing.bach.
+7943 : Bygningsdesign, ing.bach.
+7944 : Byggeri og anlæg, indeklima og energi, ingeniør bach.
+7945 : Rytmisk instrument-sang-ensemble, kand.2år
+7946 : Klassisk musikpædagog (AM), kand.2år
+7947 : Rytmisk musikpædagog (AM), kand.2år
+7948 : Bygge- og anlægskonstruktion, ingeniør bach.
+7949 : Elektronisk musik og lydkunst, kand.2år
+7950 : Kirkemusik, kand.2år
+7951 : Byggeri og anlæg, veje og trafik, ingeniør bach.
+7952 : Komponist, kand.2år
+7953 : Byggeri og anlæg, vand og miljø, ingeniør bach.
+7954 : Musikpædagogisk brobygning, kand.2år
+7955 : Tonemester (musik), kand.2år
+7956 : Den individuelle musikuddannelse IM, kand.2år
+7957 : Musikformidling, kand.2år
+7958 : Netværksteknologi og IT, ingeniør bach.
+7959 : Folkemusik, kand.2år
+7960 : Klassisk musik, solist
+7961 : Musik (Music Creation), kand.2år
+7965 : Rytmisk musik, solist
+7970 : Elektronisk musik, solist
+7971 : Kunstig intelligens og data, ingeniør bach.
+7972 : Bæredygtigt energidesign, ingeniør bach.
+7973 : Elektronik, ingeniør bach.
+7995 : Medicin med industriel specialisering, kand.2år
+800 : Forfatteruddannelsen (privat udd.)
+8000 : Naturvidenskab, ph.d.
+8010 : Matematisk-fysisk faggruppe, kand.
+8018 : Fysik og teknologi, kand.2år
+8019 : Lysdesign, kand.2år
+802 : Musicalperformer (privat udd.)
+8020 : Matematisk modellering og computing, kand.2år
+8021 : Meteorologi, bach.
+8026 : Byggeri og anlæg, ingeniør bach.
+803 : Billedkunst (privat udd.)
+8039 : Miljøkemi, bach.
+8040 : Medicinalkemi, bach.
+8041 : Statistik, bach.
+8042 : Sundhedsteknologi, ing.bach.
+8043 : Vand og miljø (SDC), cand.scient.2år
+8044 : Astronomi, bach.
+8045 : Biofysik, bach.
+8049 : Geofysik, bach.
+805 : Kirkesanger (privat udd.)
+8050 : Biokemi, bach.
+8052 : Teknoantropologi, bach.
+8059 : Forsikringsmatematik, bach.
+806 : Præliminær organistuddannelse 2 år (privat udd.)
+8060 : Klimaforandringer, kand.2år
+8073 : Datalogi (IT), kand.2år
+8074 : Anvendt matematik, kand.2år
+8075 : Produkt- og designpsykologi, ingeniør bach.
+8076 : Geofysik og rumteknologi, kand.2år
+8077 : E-science, kand.2år
+8079 : Miljøkemi, kand.2år
+8080 : Naturvidenskab kombination, kand.2år
+8081 : Datalogi, kand.2år
+8082 : Matematik, kand.2år
+8083 : Fysik, kand.2år
+8084 : Astronomi, kand.2år
+8085 : Datalogi, kand.
+8089 : Geofysik, kand.2år
+8090 : Biokemi, kand.2år
+8091 : Statistik, kand.2år
+8092 : Kemi, kand.2år
+8093 : Videnskabsstudier, kand.2år
+8094 : Geodæsi, kand.2år
+8095 : Biofysik, kand.2år
+8096 : Materialefysik-kemi, kand.2år
+8097 : Matematisk planlægning, kand.2år
+8098 : Teknisk fysik, kand.2år
+8099 : Forsikringsmatematik, kand.2år
+810 : Holistisk afspændingspædagog (privat udd.)
+8100 : Informationsteknologi, bach.
+8105 : Informatik, bach.
+811 : Bevægelsespædagog (privat udd.)
+8114 : Data science, bach.
+8116 : Anvendt matematik, bach.
+8117 : Matematik-økonomi, kand.
+8118 : Matematik-økonomi, kand.2år
+812 : Faglærer i idræt (privat udd.)
+8120 : Geologi, kand.
+8129 : Teknisk fysik, bach.
+8130 : Global virksomhedsinformatik, bach.
+8132 : Naturvidenskab, bach.
+8133 : Matematik og økonomi, bach.
+8134 : Softwareudvikling, bach.
+8135 : Datalogi, bach.
+8136 : Kemi, bach.
+8137 : Fysik, bach.
+8138 : Matematik, bach.
+8139 : Biologi, bach.
+8140 : Kemi og teknologi, ing.bach.
+8147 : Geologi, bach.
+8148 : Geologi/Geologi-geoscience, bach.
+8149 : Molekylærbiologi, bach.
+815 : Pædagog (Rudolf Steiner) (privat udd.)
+8150 : Molekylær biomedicin /Molekylær medicin, bach.
+8151 : Medicinalkemi, kand.2år
+8152 : Biologi-bioteknologi, bach.
+8153 : Miljøbiologi, bach.
+8154 : Almen biologi, bach.
+8155 : Biomedicin, bach.
+8156 : Biokemi og molekylær biologi, bach.
+8157 : Biokemi, molekylær biologi og kemi, bach.
+816 : Børnehave- fritidspædagog (Rudolf Steiner) (privat udd.)
+8160 : Geografi, kand.
+8163 : Matematik og teknologi, ingeniør bach.
+8164 : Forsikringsmatematik, bach.
+8167 : Naturvidenskab og IT, bach.
+8168 : Matematiske fag, bach.
+8169 : Biologi, industribach.
+8175 : Produkt og designpsykologi, kand.2år
+8180 : Kulturgeografi, bach.
+8184 : Geografi, kand.
+8185 : Geografi/Geografi og geoinformatik, kand.2år
+8186 : Geografi/Geografi og geoinformatik, bach.
+8187 : Naturgeografi, bach.
+8188 : Geoinformatik, bach.
+820 : Trafikflyver (privat udd.)
+8200 : Biologi, kand.
+8201 : Nanoscience og teknologi (SDC), kand.2år
+8202 : Molekylærbiologi, kand.2år
+8203 : Omics (SDC), kand.2år
+8205 : Molekylær biomedicin /Molekylær medicin, kand.2år
+8211 : Multimedia science, kand.2år
+8216 : Miljørisiko, kand.2år
+8217 : Matematik-økonomi, kand.2år
+8220 : Geologi/Geologi-geoscience, kand.2år
+8226 : Biologi, kand.2år
+8227 : Biokemi og molekylær biologi, kand.2år
+8228 : Biokemi, molekylær biologi og kemi, kand.2år
+8229 : It, kommunikation og organisation, kand.2år
+8230 : Geofysik, kand.2år
+8231 : Biologi-bioteknologi, kand.2år
+8232 : Forsikringsmatematik, kand.2år
+8233 : Bioinformatik, kand.2år
+8234 : Naturforvaltn. landskab-biodiversitet-planlægn., kand.2år
+8235 : Parasitologi, kand.2år
+8240 : Biologi, kand.2år
+8244 : Værdikæder og teknisk ledelse, kand.2år
+8245 : Gastronomi og sundhed, kand.2 år
+825 : Beklædningsdesigner-modelkonstruktør (privat udd.)
+8250 : Legemsøvelser, kand.
+8251 : Byggeledelse og bygningsinformatik, kand.2år
+8253 : Idræt/Idræt og sundhed, bach.
+8255 : Legemsøvelser, faglærer
+8256 : Idræt/Idræt og sundhed, kand.2år
+8257 : Idrætsteknologi, kand.2år
+8258 : Humanistisk-samfundsvidenskabelig idrætsvidenskab, kand.2år
+8259 : Humanfysiologi, kand.2år
+8260 : Datateknik, civilingeniør
+8261 : Datateknik, ingeniør bach.
+8262 : Datateknik, civilingeniør 2år
+8263 : Værdikæder og innovationsledelse, cand.polyt.2år
+8265 : Bioteknologi, ing.bach.
+8270 : Bioteknologi, kand.2år
+8271 : Landinspektørvidenskab, bach.
+8272 : Landinspektørvidenskab, cand.geom.2år
+8275 : Procesanalytisk teknologi, kand.2år
+8280 : Geografi, kand.2år
+8290 : Nanoteknologi, ing.bach.
+8291 : Nanobioscience, bach.
+8292 : Nanoscience, bach.
+8295 : Nanoscience, kand.2år
+8296 : Nanobioscience, kand.2år
+8300 : Bæredygtig byudvikling, kand.2år
+8301 : Matematik og økonomi, ph.d.
+8302 : Transport og logistik, kand.2år
+8303 : Sustainable animal nutrition-feeding, kand.2år
+8304 : Europæisk vindenergi, civilingeniør2år
+8305 : Vindenergi, cand.polyt.2år
+8306 : Bæredygtig energi, cand.polyt.2år
+8307 : Intelligente pålidelige systemer, kand.2år
+8308 : Telekommunikation, kand.2år
+8309 : Matematik-teknologi, kand.2år
+8310 : Sikkerhed og risikostyring, kand.2år
+8311 : Mekatronik, kand.2år
+8312 : Biomedicinsk teknologi, kand.2år
+8313 : Kemisk-biokemisk teknologi (biomasse-energi) (SDC), civilingeniør 2år
+8314 : Forretningsinnovation, kand.2år
+8315 : Bæredygtigt design, kand.2år
+8316 : Materialeteknologi, kand.2år
+8317 : Service systems design, kand.2år
+8318 : Fotonik, kand.2år
+8319 : Erhvervsøkonomi og bioentrepreneurskab, kand.2år
+8320 : Autonome systemer, kand.2år
+8321 : Urbant design, cand.scient.tech.2år
+8322 : Urbant design, cand.polyt.2år
+8323 : Industrielt design, cand.scient.tech.2år
+8324 : Industrielt design, cand.polyt.2år
+8325 : Arkitektur, cand.scient.tech.2år
+8326 : Arkitektur, cand.polyt.2år
+8327 : Sundhedsteknologi, kand.2år
+8328 : Farmateknologi, kand.2år
+8329 : Velfærdsteknologi, kand.2år
+8330 : Lærings- og oplevelsesteknologi, kand.2år
+8331 : Industriel produktion, civilingeniør 2år
+8332 : Medicin og teknologi, civilingeniør 2år
+8333 : Bioteknologi, civilingeniør 2år
+8334 : Kemi-miljø, civilingeniør 2år
+8335 : Byggeri og anlæg, kand.2år
+8336 : Design og innovation, civilingeniør 2år
+8337 : Elektronik og IT, civilingeniør 2år
+8338 : Nanoteknologi, civilingeniør 2år
+8339 : IT-informatik, civilingeniør 2år
+8340 : Teknisk una, kand.2år
+8341 : Fødevareteknologi, cand.polyt.2år
+8342 : Teknologi og ledelse, civilingeniør 2år
+8343 : Energi, civilingeniør 2år
+8344 : Innovativ kommunikationsteknik-entrepreneursk., kand.2år
+8345 : Byggeri, kand.2år
+8346 : Bæredygtig bioteknologi, kand.2år
+8347 : Olie- og gasteknologi, kand.2år
+8348 : Lyd og akustisk teknologi, kand.2år
+8349 : IT-produktudvikling, kand.2år
+835 : Danish addiction counselor (privat udd.)
+8350 : IT-ledelse, kand.2år
+8351 : Biosystemteknologi, cand.polyt.2år
+8352 : Teknoantropologi, kand.2år
+8353 : Energiteknologi, kand.2år
+8354 : Indeklima og energi, kand.2år
+8355 : Bygge- og anlægskonstruktion, kand.2år
+8356 : Veje og trafik, cand.polyt.2år
+8357 : Vand og miljø, cand.polyt.2år
+8358 : Kemisk og biokemisk teknologi, kand.2år
+8359 : Bygningsinformatik, kand.2år
+8360 : Byggeledelse, cand.polyt.2år
+8361 : Byggeledelse, cand.scient.tech.2år
+8362 : Ledelse og informatik i byggeriet, kand.2år
+8363 : Akvatisk videnskab og teknologi, cand.polyt.2år
+8364 : Integrerede fødevarestudier, kand.2år
+8365 : Bygningsdesign, kand.2år
+8366 : Byggeteknologi, kand.2år
+8367 : Materiale- og procesteknologi, kand.2år
+8368 : Fysik og nanoteknologi, kand.2år
+8369 : Nanomaterialer og nanofysik, kand.2år
+8370 : Nanobioteknologi, kand.2år
+8371 : Medicinsk bioteknologi, kand.2år
+8372 : Bæredygtig energiteknik, kand.2år
+8373 : Lyd- og musikteknologi, kand.2år
+8374 : Bygningers energidesign, kand.2år
+8375 : Innovation and business, kand.2år
+8376 : Konstruktionsteknik, kand.2år
+8380 : Kreativ musikformidling, master
+8381 : Grundlæggende musikformidling, master
+8382 : Kirkemusik, master
+8383 : Klassisk hørelærepædagogik, master
+8384 : Rytmisk korledelse, master
+8385 : Rytmisk kirkemusik, master
+8386 : Elite sangpædagogik, master
+840 : Projektledelse, kaospilot (privat udd.)
+8400 : Landbrugsvidenskab, bach.
+8401 : Akademiuddannelse i ungdoms- og voksenundervisning
+8402 : Agrobiologi, bach.
+8403 : Mejeribrug, bach.
+8404 : Jordbrugsøkonomi, bach.
+8405 : Fødevarer og ernæring, bach.
+8406 : Fødevarevidenskab, bach.
+8407 : Havebrugsvidenskab, bach.
+8408 : Akademiuddannelse i socialpædagogik
+8409 : Landskabsarkitektur, bach.
+8410 : Veterinærmedicin, bach.
+8411 : Skovbrugsvidenskab, bach.
+8412 : Husdyrvidenskab, bach.
+8413 : Akademiuddannelse, fleksibelt forløb
+8415 : Veterinærmedicin, kand.2½år
+8416 : Husdyrvidenskab, kand.2år
+8420 : Naturressourcer, bach.
+8440 : Speciallærer
+8441 : Friluftsvejleder
+8442 : Almen uddannelse i sløjd
+8443 : Voksenunderviser
+8444 : Voksenvejleder
+8445 : Praktiklærer til læreruddannelsen, diplomuddannelse
+8446 : Praktikvejleder til socialrådgiveruddannelsen, diplomuddannelse
+8447 : Praktikvejleder til pædadgoguddannelsen, diplomuddannelse
+8448 : Uddannelses- og erhvervsvejlederuddannelse
+845 : 3D grafiker og animator (privat udd.)
+850 : Kosmetolog (privat udd.)
+8501 : Diplomuddannelse i naturfagsdidaktik
+8502 : Dansk andetsprog for voksne
+8503 : Diplomuddannelse i pædagogik (DPU)
+8504 : Diplomuddannelse i pædagogisk arbejde
+8505 : Diplomuddannelse i journalistisk arbejde
+8506 : Diplomuddannelse til turistfører
+8507 : Diplomuddannelse i materiel kultur
+8508 : Diplomuddannelse i erhvervspædagogik
+8510 : Den merkantile diplomuddannelse
+8511 : Diplomuddannelse i globalisering og forandring
+8518 : Diplomuddannelse i vurdering
+8519 : Diplomuddannelse i ledelse
+8520 : Diplomuddannelse i journalistik for etniske grupper
+8521 : Diplomuddannelse i journalistik
+8522 : Humanistisk-pædagogik, diplomuddannelse (DPU)
+8523 : Statsprøvet tolk
+8524 : Teknologisk diplomuddannelse i projektledelse
+8525 : Diplomuddannelse i kriminologi
+8526 : Diplomuddannelse i sportsmanagement
+8552 : Ernæringsfaglig diplomuddannelse
+8553 : Diplomuddannelse i operations og supply chain management (TD)
+8554 : Grafisk åben udd. (GÅU)
+8555 : Media management (GÅU)
+8556 : Teknologisk diplomuddannelse i parkvirksomhed
+8557 : Teknologisk diplomuddannelse i vedligehold
+8558 : Teknologisk diplomuddannelse
+8559 : Teknologisk diplomuddannelse i bio- og procestekn. og kemi
+8560 : Teknologisk diplomuddannelse i stærkstrømsteknologi
+8561 : Diplomuddannelse i automation
+8562 : Teknologisk diplomuddannelse, projektledelse i byggeriet
+8563 : Sundhedsteknologi, ing.prof.bach.
+8586 : Diplomuddannelse i sundhedsøkonomi og ledelse
+8599 : Diplomuddannelse, fleksibelt forløb
+8600 : Diplomuddannelse i offentlig forvaltning og administration
+8601 : Diplomuddannelse i skat
+8602 : Diplomuddannelse i inkasso
+8603 : Diplomuddannelse i socialformidling
+8604 : Akademiuddannelse til statonom
+8620 : Diplomuddannelse i it-sikkerhed
+8621 : Teknologileder, diplomuddannelse
+8622 : Ingeniørernes lederuddannelse, diplomuddannelse
+8623 : Management and manufacturing, ingeniør prof.bach.
+8624 : Diplomuddannelse i IT (DIT)
+8625 : Diplomuddannelse i software (IT-Vest)
+8626 : IT-diplomuddannelsen (IHK), diplomuddannelse
+8627 : Humanøkologi (TD), diplomuddannelse
+8628 : Diplomuddannelse i webudvikling
+8629 : Diplomuddannelse i softwareudvikling
+8630 : Diplomuddannelse i konkurrenceidræt
+8631 : Diplomuddannelse i matematik og pædagogik (DPU)
+8632 : Sundhedsfaglig diplomuddannelse
+8633 : Kræftsygepleje, specialsygeplejerske
+8634 : Sygeplejerske, suppleringsuddannelse
+8635 : Stråleterapi, specialsygeplejerske
+8636 : Diplomuddannelse i oral helse
+8637 : Diplomuddannelse i psykiatri
+8638 : Diplomuddannelse i familieterapi
+8639 : Diplomuddannelsen i ældrearbejde
+8655 : Diplomuddannelse i formidling af kunst og kultur
+8656 : Den sociale diplomuddannelse
+8657 : Tværfaglig diplomuddannelse
+8658 : Diplomuddannelse i beskæftigelse
+8670 : Diplomuddannelse i kirkemusik
+8671 : Diplomuddannelse i music management
+8672 : Diplomuddannelse i rytmisk musik og bevægelse
+8673 : Diplomuddannelse i digital konceptudvikling
+8674 : Diplomuddannelse i rytmisk korledelse
+8750 : Special- og socialpædagogik, master
+8800 : Læreprocesser (MLP), master
+8801 : Voksnes læring og kompetenceudvikling, master
+8802 : Sundhedspædagogik og sundhedsfremme, master
+8803 : Pædagogisk IT, master
+8804 : Professionsudvikling, master
+8805 : Gymnasiepædagogik ledelse, master
+8806 : Myndighed og medborgerskab, master
+8807 : Specialpædagogik, master
+8808 : Fremmedsprogspædagogik, master
+8809 : Engelsk teknisk kommunikation (MTC), master
+8810 : Danskfagets didaktik, master
+8811 : Pædagogisk fleksibelt forløb, master
+8812 : Børns litteratur og medier, master
+8813 : Vejledning, master
+8814 : Sprogtilegnelse, master
+8815 : Language administration (MLA), master
+8816 : Retorik, master
+8817 : Læse- og skrivedidaktik (MEd), master
+8818 : Børne- og ungdomskultur, æstet. læreproces. - multimedier, master
+8819 : Humanistisk sundhedsvidenskab og -praksisudvikling, master
+8820 : Multimedia arts (MMA), master
+8821 : Kulturhistorisk informatik, master
+8822 : Køn og kultur, master
+8823 : Professionel kommunikation, master
+8824 : Tværmedial kommunikation, master
+8825 : Information technology (MI), master
+8826 : IT (MIT), master
+8827 : Miljøstudier, master
+8828 : Geovidenskab, master
+8829 : Anvendt statistik, master
+8830 : Multimedia science (MMS), master
+8831 : Kryptologi, master
+8832 : Problembaseret læring i ingeniør-og naturvidenskab,master
+8833 : Material science, master
+8834 : Fysik, master
+8835 : Computer-mediated communication (MCC), master
+8836 : Idræt og velfærd, master
+8837 : Integreret planlægning, master
+8838 : Bioanalyse og klinisk kemi, master
+8839 : Problem based learning in science (MPBL), master
+8840 : Køn og velfærd, master
+8841 : Fødevarekvalitet og -sikkerhed, master
+8842 : Naturfagsdidaktik, master
+8843 : Public quality management, master
+8844 : Skat, master
+8845 : Skat, master
+8846 : Oplevelsesledelse (MOL), master
+8847 : Food (MBA), master
+8848 : Business administration (MBA), master
+8849 : Ledelsesudvikling, master
+8850 : Offentlig administration (MPA), master
+8851 : Europastudier, master
+8852 : Corporate communication, master
+8853 : Konfliktmægling, master
+8854 : Organisationspsykologi, master
+8855 : Offentlig organisation og ledelse (MPM), master
+8856 : Modern economics, master
+8857 : Humanistisk organisationsudvikling, master
+8858 : Social integration, master
+8859 : Byg (MBA), master
+8860 : Public policy (MPP), master
+8861 : Knowledge management, master
+8862 : Shipping og logistik, (EMBA) master
+8863 : Arbejdsmarked og personaleforhold, master
+8864 : Sundhedsantropologi, master
+8865 : Bæredygtig omstilling, master
+8866 : Teknisk miljøledelse, master
+8867 : Miljøvidenskab, master
+8868 : Technology management (MTM), master
+8869 : Brandsikkerhed, master
+8870 : Arktisk teknologi, master
+8871 : Holdbarhed-reparation betonkonstruktion, master
+8872 : Ledelse af byggeri, master
+8873 : Informatik-teknisk-industriel IT, master
+8874 : Kulturmiljø og landskabsanalyse, master
+8875 : International virksomhedskommunikation, master
+8876 : Forsøgsdyrsvidenskab, master
+8877 : Husdyrsundhed og økonomi, master
+8878 : Landskab og planlægning, master
+8879 : Public health (MPH), master
+8880 : International health, master
+8881 : Rehabilitering, master
+8882 : Klinisk sygepleje, master
+8883 : Industriel lægemiddeludvikling, master
+8884 : Kvalitetssikret lægemiddelanvendelse, master
+8885 : Miljø- og energiret, master
+8886 : Evaluering, master
+8887 : Software, interaktionsdesign-multimedier, organisation, master
+8888 : Antropologi og velfærd, master
+8889 : Katastrofehåndtering, master
+8890 : Gerontologi, master
+8891 : Pharmaceutical regulatory affairs, master
+8892 : Mobil internet communication (MIC), master
+8893 : Musikformidling, master
+8894 : Dyreadfærd og -velfærd, master
+8895 : Museumsstudier, master
+8896 : Matematisk modellering, master
+8897 : Socialt entreprenørskab (MSE), master
+8898 : Internat. entrepreneurship, education, training (IMEET), master
+8899 : Bioteknologi, master
+8900 : It, kommunikation og organisation (MITKO), master
+8901 : Technology-market-organisation (TMO), master
+8902 : IKT og læring, master
+8903 : Multimedieteknologi (MITM), master
+8904 : Design, kommunikation og medie, master
+8905 : Internet- og softwareudvikling, master
+8906 : It, software engineering, master
+8907 : Softwareudvikling, master
+8908 : IT-handel, master
+8909 : Health care IT, master
+8910 : Vindenergi, master
+8911 : Teknologiledelse (MMT), master
+8912 : Redaktionel ledelse, master
+8913 : Transport og maritim management, master
+8914 : Fitness og træning, master
+8915 : Cognition and communication, master
+8916 : Public governance (MPG), master
+8917 : Corporate performance, master
+8918 : Samfundsmæssige konflikter og intervention, master
+8919 : Dansk som andetsprog, master
+8920 : Sundhedsinformatik, master
+8921 : Børnemusik, master
+8922 : Naturfagsundervisning, master
+8923 : Journalistik, master
+8924 : Risikostyring inden for miljø og sundhed, master
+8925 : Dagtilbuds- og indskolingsdidaktik, master
+8926 : Multikulturalitet, uddannelse og læring, master
+8927 : Positiv psykologi, master
+8928 : Business administration executive (EMBA), master
+8929 : Uddannelse og læring, master
+8930 : IT-organisation, master
+8931 : Offentlig ledelse (MPG), master
+8932 : Afdelingsbaseret hospitalsmanagement, master
+8933 : Humanistisk palliation, master
+8934 : Kulturplanlægning, master
+8935 : Gymnasiepædagogik didaktik, master
+8936 : Matematik, master
+8937 : Videregående uddannelse og forskning, master
+8938 : Sundhedsfremme, master
+8939 : Elektronisk musik, master
+8940 : Finansiel management, master
+8941 : Universelt design og tilgængelighed, master
+8942 : Globalisering og integration, master
+8943 : Medicinsk billeddiagnostik, master
+8944 : Humanistisk palliation, master
+8945 : Informations- og kommunikationsteknologier (MICT), master
+8946 : Offentlig kvalitet og ledelse, master
+8947 : Klinisk familiedyrsvidenskab, master
+8948 : Bygningsfysik, master
+8949 : Scienceundervisning, master
+8950 : Sexologi, master
+8951 : Politivirksomhed, master
+8952 : Vurdering af husdyrvelfærd i primærproduktion, master
+8953 : It-ledelse, master
+8954 : It interaktionsdesign, master
+8955 : Organisatorisk coaching og læring, master
+8956 : Projekt- og innovationsledelse, master
+8957 : Smertevidenskab og tværfaglig smertebehandling, master
+8958 : Vidensbaseret socialt arbejde, master
+8959 : Sprogundervisning, lingvistik og it, master
+8969 : Folkeskoleudvikling, master
+8970 : Socialpædagogik, master
+8971 : Ledelse af uddannelsesinstitutioner, master
+8972 : Drama- og teaterpædagogik, master
+8973 : Interkulturel pædagogik, master
+8974 : Leadership-innovation in complex systems (LAICS), master
+8975 : Udsatte børn og unge, master
+8976 : Narkotika- og alkoholindsatser, master
+8977 : Informationsforvaltning og Records Management,master
+8978 : Projekt- og forandringsledelse, master
+8979 : Forretningsudvikling, it og innovation, master
+8980 : Forretningsudvikling, master
+8994 : Sundhedsvidenskab fleksibel, master
+8995 : Samfundsvidenskab fleksibel, master
+8996 : Naturvidenskab fleksibel, master
+8997 : Teknisk videnskab fleksibel, master
+8998 : Humananistisk fleksibel, master
+8999 : Teologisk fleksibel,master
+9014 : Hf-/studenterfag, enkeltfag
+9015 : Børnehave- og fritidspædagog, årskursus
+9020 : Kursus, lærer-pædagog
+9030 : Folkeskolelærer, årskursus
+9034 : Pædagogikum i historie
+9035 : Pædagogikum i oltidskundskab
+9036 : Pædagogikum i latin
+9037 : Pædagogikum i græsk
+9038 : Pædagogikum i dansk
+9039 : Pædagogikum i engelsk
+9040 : Pædagogikum i tysk
+9041 : Pædagogikum i fransk
+9042 : Pædagogikum i italiensk
+9043 : Pædagogikum i spansk
+9044 : Pædagogikum i russisk
+9045 : Pædagogikum i religion
+9046 : Pædagogikum i kunsthistorie
+9047 : Pædagogikum i musik
+9049 : Pædagogikum i dramatik
+9050 : Pædagogikum i filmkundskab
+9051 : Pædagogikum i samfundsfag
+9052 : Pædagogikum i matematik
+9053 : Pædagogikum i datalogi
+9054 : Pædagogikum i fysik
+9055 : Pædagogikum i kemi
+9056 : Pædagogikum i biologi
+9057 : Pædagogikum i geografi
+9061 : Pædagogikum i legemsøvelser
+9062 : Pædagogikum i psykologi
+9106 : Kørelærer
+9121 : Universitetsuddannelse una
+9122 : Cand.mag. una
+9123 : Cand.phil. una
+9124 : Mag.art. una
+9125 : Exam.art. una
+9132 : Småbørnslærerinde
+9144 : Korrespondent
+9167 : Anden filmskoleuddannelse
+9171 : Solist-komponist-dirigent
+9172 : Musikkonservatorie una
+9173 : Kordegn
+9174 : Præsteuddannelse af lærere
+9175 : Præst i folkekirken
+9176 : Kunstakademiuddannelse una
+9203 : Fa forvaltningshøjskole, staten
+9215 : Assurandøruddannelse
+9224 : HD una
+9225 : Statsautoriseret revisor
+9258 : Dr.polit.
+9264 : Mag.scient. una
+9266 : Dr.scient.
+9267 : Dr.jur.
+9269 : Dr.oecon.
+9315 : Sp., skibsværftsarbejde
+9316 : Sp., den kemiske industri
+9317 : Sp., bygningsområdet
+9320 : Sp., mineralindustrien
+9321 : Sp., gulvbelægning
+9322 : Sp., videreforarbejdning træindustrien
+9327 : Sp., konfektion og trikotage syning
+9328 : Sp., spinderiområdet
+9329 : Sp., trykkeriområdet
+9332 : Sp., slagteri
+9333 : Sp., fiskeindustrien
+9334 : Sp., fiskerierhvervet
+9338 : Sp., bryggeriindustrien
+9339 : Brygmester
+9342 : Togbetjent
+9369 : Driftstekniker ved DR
+9382 : Trafikflyver
+9384 : Lokomotivassistent (fører)
+9385 : Hepatologi, speciallæge
+9386 : Steward/stewardesse
+9390 : Dr.med.
+9391 : Neurokirurgi, speciallæge
+9392 : Ortopædisk kirurgi, speciallæge
+9393 : Plastikkirurgi, speciallæge
+9394 : Thoraxkirurgi, speciallæge
+9395 : Urologi, speciallæge
+9396 : Kirurgi, speciallæge
+9397 : Dermato-venerologi, speciallæge
+9398 : Intern medicin, speciallæge
+9399 : Neuromedicin, speciallæge
+9400 : Børnepsykiatri, speciallæge
+9403 : Tropemedicin, speciallæge
+9404 : Terapeutisk radiologi, speciallæge
+9405 : Kardiologi, speciallæge
+9406 : Pædiatri, speciallæge
+9407 : Anæstesiologi, speciallæge
+9409 : Klinisk neurofysiologi, speciallæge
+9410 : Medicinsk lungesygdomme, speciallæge
+9412 : Klinisk fysiologi-nuklearmedicin, speciallæge
+9413 : Klinisk kemi, speciallæge
+9414 : Oftalmologi, speciallæge
+9416 : Psykiatri, speciallæge
+9418 : Patologisk anatomi-histologi, speciallæge
+9420 : Klinisk mikrobiologi, speciallæge
+9422 : Nefrologi, speciallæge
+9423 : Oto-rhino-laryngologi, speciallæge
+9424 : Gynækologi, speciallæge
+9429 : Sergent, søværnet
+9430 : Dr.pharm.
+9431 : Konstabel, søværnet
+9434 : Sergent, flyvevåbnet
+9435 : Sergent, hæren
+9440 : Konstabel, flyvevåbnet
+9445 : Konstabel, hæren
+9450 : Dr.odont.
+9465 : Exam. pharm.
+9467 : Hjemmehjælper
+9468 : Barneplejerske
+9469 : Samfundsmedicin, speciallæge
+9470 : Anæstesisygeplejerske
+9471 : Diagnostisk radiologi, speciallæge
+9472 : Medicinsk gastroenterologi, speciallæge
+9473 : Langtidsmedicin-geriatri, speciallæge
+9474 : Hygiejnesygeplejerske
+9475 : Kirurgisk gastroenterologi, speciallæge
+9476 : Læge, B-autoriseret
+9477 : Danmarks sygeplejerskehøjskole, 1.-2. del
+9481 : Læge i almen praksis
+9483 : Sp., køkkenområdet
+9484 : Cigarmager og -sorterer
+9485 : Cigarrillosmager og -sorterer
+9486 : Faglært tobaksarbejder
+9487 : Hæmatologi, speciallæge
+9488 : Dr.med.vet.
+9490 : Infektionsmedicin, speciallæge
+9491 : Medicinsk allergologi, speciallæge
+9492 : Dr.agro.
+9493 : Medicinsk endokrinologi, speciallæge
+9495 : Bandagist
+9498 : Karkirurgi, speciallæge
+9500 : Klinisk immunologi, speciallæge
+9502 : Landinspektør, lic.geom.
+9504 : Samfundsmedicin adm. medicin, speciallæge
+9505 : Samfundsmedicin arbejdsmedicin, speciallæge
+9508 : Reumatologi, speciallæge
+9514 : Ortodonti, specialtandlæge
+9515 : Hospitalsodontologi, specialtandlæge
+9517 : Sp., kedel og maskinpassere
+9518 : Dr.techn.
+9529 : Fd(k) forvaltningsfagligt diplomkursus, kommunalt
+9531 : Socialformidleruddannelse
+9533 : Fa(k) forvaltningsfaglig afgangseksamen, kommunal
+9534 : Sf1 socialforvaltning 1
+9535 : Sk2 skatteforvaltning 2
+9536 : Fa forvaltningsfaglig afgangseksamen una
+9537 : Sk1 skatteforvaltning 1
+9538 : Sf2 socialforvaltning 2
+9539 : Fd(s) forvaltningsfagligt diplomkursus, staten
+9540 : Forvaltningsfagligt grundkursus
+9541 : Fd forvaltningsfagligt diplomkursus, sygehuse
+9542 : Forvaltningsfagligt specialkursus
+9556 : Dr.ling.merc.
+9564 : Søfartskoleuddannelse una
+9569 : Kyst-, fiske- og sætteskipper
+9571 : Dr.phil.
+9572 : Ernæring, årskursus
+9573 : Handelsfaglærereksamen
+9574 : Faglærerkursus, teknikeruddannelse
+9580 : Forbrugerøkonom, årskursus
+9584 : Pædagogisk grundkursus, lærere ved tekniske skoler
+9585 : Pædagogisk uddannelse, lærere ved teknika
+9586 : Pædagogisk uddannelse, lærere ved ingeniørakademi
+9588 : Pædagogisk kursus, handelsskole
+9589 : Pædagogisk grundkursus, lærere ved handelshøjskole
+9602 : Fsu Folkeskolens udvidede afgangsprøve, enkeltfag
+9603 : Fsa Folkeskolens afgangsprøve, enkeltfag
+9604 : Almen voksenuddannelse, enkeltfag
+9606 : Forberedende voksenuddannelse, enkeltfag
+9607 : Ordblindeundervisning for voksne
+9618 : Bevægelses- og helsepædagog
+9620 : Afspændingspædagog
+9621 : Mensendiecklærer
+9622 : Dansk kommunalkursus 1
+9623 : Dansk kommunalkursus 2
+9654 : Pianostemmer
+9655 : Akademiingeniør
+9658 : Ingeniør una
+9668 : Konservator una, kand.
+9677 : Fag., væksthusgartner
+9678 : Fag., tjener
+9679 : Fag., receptionist
+9681 : Fag., smørrebrødsjomfru
+9682 : Fag., hotel og restauration
+9683 : Fag., auto karrosseri
+9684 : Fag., butiksslagter
+9685 : Fag., industrislagter
+9686 : Officer A-linien una
+9687 : Officer B-linien una
+9688 : Officer una
+9689 : Fag., industribager
+9693 : Fag., snedker- og tømrerfag
+9694 : Fag., malerfag
+9695 : Agr., arbejdsledelse plastindustri
+9696 : Agr., arbejdsledelse procesindustri
+9697 : Agr., arbejdsledelse, landbrug og jordbrug
+9698 : Agr., arbejdsledelse mejeri
+9699 : Agr., arbejdsledelse, kødindustri
+9703 : Agr., arbejdsledelse bygge og anlæg
+9704 : Agr., arbejdsledelse tekstil og beklædning
+9705 : Grundstudium, sprog uoplyst
+9706 : Agr., arbejdsledelse grafisk
+9707 : Erhvervssproglig diplomprøve ED una
+9708 : Agr., arbejdsledelse plastområdet
+9709 : Agr., arbejdsledelse el-teknik
+9710 : Agr., arbejdsledelse maskin og værktøj
+9711 : Agr., arbejdsledelse produktion og samarbejde
+9712 : Agr., arbejdsledelse vedligeholdelsesteknik
+9713 : Agr., arbejdsledelse elektronik
+9714 : Erhvervssproglig una, afgangseksamen EA
+9715 : Agr., arbejdsledelse autoteknik
+9716 : Cand.ling.merc. una
+9717 : Translatør
+9718 : Agr., arbejdsledelse naturgas
+9719 : Agr., arbejdsledelse ledelsesteknik
+9720 : Make up artist
+9721 : Make up tekniker
+9722 : Kosmetelog
+9723 : Agr., efteruddannelse teknisk assistent
+9724 : Agr., efteruddannelse af laboranter
+9725 : Agr., arbejdsledelse landbrug
+9726 : Agr., arbejdsledelse handel og service
+9730 : Fag., handelsfag
+9731 : Fag., kontorfag andet
+9732 : Fag., kontorteknik
+9733 : Fag., handelsfag edb-teknik
+9734 : Fag., butiksfag
+9735 : Fag., teknisk tegner og -assistent
+9736 : Fag., jern, metal og andre tekniske
+9737 : Fag., jern og metal, vvs-teknik
+9738 : Fag., smede- og svejseteknik
+9739 : Fag., guld-, sølv- og gravørfag
+9740 : Fag., maskin- og værktøjsteknik
+9741 : Fag., flyteknik
+9742 : Fag., landtransportteknik
+9743 : Fag., urmagerfag
+9744 : Fag., elektrikerfag
+9745 : Fag., svagstrømsteknik
+9746 : Fag., murerfag
+9747 : Fag., stenhuggerfag
+9748 : Fag., glarmesterfag
+9749 : Fag., tømrerfag
+9750 : Fag., maskinsnedkerfag
+9751 : Fag., snedkerfag
+9752 : Fag., træindustri, maskinsnedkerfag
+9753 : Fag., blikkenslagerfag
+9754 : Fag., bygningsmalerfag
+9755 : Fag., skiltemalerfag
+9756 : Fag., vognmalerfag
+9757 : Fag., fotograffag
+9758 : Fag., trykkerfag
+9759 : Fag., offsettrykkerfag
+9760 : Fag., sætterfag
+9761 : Fag., reproteknikerfag
+9762 : Fag., serigraffag
+9763 : Fag., skrædderfag
+9764 : Fag., møbelpolstring og sadelmageri
+9765 : Fag., optikerfag
+9766 : Fag., tandteknikerfag
+9767 : Fag., frisørfag
+9768 : Fag., skorstensfejerfag
+9769 : Fag., gartnerfag
+9770 : Fag., mejerifag
+9771 : Fag., slagterfag
+9772 : Fag., kødindustri andre tekniske fag
+9773 : Fag., bagerfag
+9774 : Fag., konditor
+9775 : Fag., bager og konditorfag
+9776 : Fag., kokkefag
+9777 : Fag., bogbinderfag
+9778 : Fag., jern metal edb-teknik
+9779 : Fag., økonomi og regnskab
+9780 : Fag., organisation
+9781 : Fag., salg og markedsføring
+9782 : Fag., administration
+9783 : Fag., engrosvirksomhed
+9784 : Fag., bogtryk og repro, fælles
+9785 : Fag., finanssektoren
+9786 : Fag., reklame
+9787 : Fag., gartner
+9788 : Fag., beklædning
+9800 : Sp., metalindustri og andre tekniske fag
+9801 : Sp., stålværksteknik
+9802 : Sp., beskyttelsesgassvejsning
+9803 : Sp., flammeskæring og gassvejsning
+9804 : Sp., lysbuesvejsning
+9805 : Sp., pladearbejde
+9806 : Sp., naturgasteknik
+9807 : Sp., montage og måleteknik
+9808 : Sp., spåntagende bearbejdning
+9809 : Sp., metalindustri el-teknik
+9810 : Sp., medicinalindustrien
+9811 : Sp., anlægsområdet
+9812 : Sp., betonindustrien
+9813 : Sp., maskinførerområdet
+9814 : Sp., emballageglasindustri
+9815 : Sp., kunst- og brugsglasindustri
+9816 : Sp., porcelænsindustrien
+9817 : Sp., isoleringsområdet
+9818 : Sp., tagdækkerområdet
+9819 : Sp., gardindekoratørområdet
+9820 : Sp., bygge og anlæg andre områder
+9821 : Sp., stilladsområdet
+9822 : Sp., væveriområdet
+9823 : Sp., farveriområdet
+9824 : Sp., trikotageområdet
+9825 : Sp., skind- og rulamssyning
+9826 : Sp., skoindustrien
+9827 : Sp., garveriområdet
+9828 : Sp., møbelbetræksyning
+9829 : Sp., møbelpolstrer og autosadelmager
+9830 : Sp., filmoperatørområdet
+9831 : Sp., papirvareindustrien
+9832 : Sp., plastindustrien
+9833 : Sp., rengøringsservice
+9834 : Sp., ejendomsservice
+9835 : Sp., sikkerhedsservice
+9836 : Sp., vaskeriindustrien
+9837 : Sp., landbrug
+9838 : Sp., jordbrug i øvrigt
+9839 : Sp., gartneri
+9840 : Sp., mejeriindustrien
+9841 : Sp., pølsemageri
+9842 : Sp., tarmrenseri
+9843 : Sp., kødbranchen detail
+9844 : Sp., nærings- og nydelsesmidler
+9845 : Sp., serveringsområdet
+9846 : Sp., landtransport service
+9847 : Sp., chauffør extern transport
+9848 : Sp., redningstjeneste
+9849 : Sp., intern transport
+9850 : Sp., kranførerområdet
+9851 : Sp., havne- og terminalarbejde
+9852 : Sp., beklædning og tekstil, forsøg
+9853 : Sp., tæppeområdet
+9854 : Sp., bogbinderområdet, forsøg
+9855 : Sp., bogtrykfaget, forsøg
+9856 : Sp., bryggeriindustrien, forsøg
+9857 : Sp., bygge og anlæg, forsøg
+9858 : Sp., murerarbejdsmand
+9859 : Sp., bygge og anlæg dykkerområdet
+9860 : Sp., fiskerierhverv, forsøg
+9861 : Sp., fiskeindustri, forsøg
+9862 : Sp., hotel og restauration, forsøg
+9863 : Sp., metalindustri, forsøg
+9864 : Sp., metalindustri plastteknik
+9865 : Sp., kedel- og maskinpasser, forsøg
+9866 : Sp., kødbranche, forsøg
+9867 : Sp., kødbranche, el-teknik
+9868 : Sp., jordbrugsområdet, forsøg
+9869 : Sp., landtransport, forsøg
+9870 : Sp., mejeriindustri, forsøg
+9871 : Sp., plastindustri, forsøg
+9872 : Sp., rengøring mv., forsøg
+9873 : Sp., skoindustri, forsøg
+9874 : Sp., garveri læder
+9875 : Sp., træindustri, forsøg
+9876 : Sp., råtræforarbejdning, træindustrien
+9877 : Sp., vaskeriindustri, forsøg
+9878 : Sp., farve- og lakindustri
+9879 : Sp., gødningsindustrien
+9880 : Sp., eternit- og mineraluldindustri
+9881 : Sp., papir- og støbepapindustri
+9882 : Sp., personlig sikkerhed, forsøg
+9883 : Sp., personlig sikkerhed
+9884 : Sp., tilskærerområdet
+9886 : Sp., vodbinderierhverv
+9887 : Sp., procesindustrien, forsøg
+9888 : Sp., andre procesinduststrien
+9889 : Sp., fjerkræindustri
+990 : Pædagogik, supplement efter kandidatuddannelse
+9909 : Låseassistent
+9910 : Værktøjssliber
+9912 : Oliefyrstekniker
+9913 : Plastsvejser
+9915 : Vindmølleoperatør
+9916 : NDT tekniker
+9917 : Montageoperatør
+9918 : Aluminiumsoperatøruddannelse
+9999 : Igang

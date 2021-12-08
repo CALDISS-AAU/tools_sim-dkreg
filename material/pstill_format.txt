@@ -1,0 +1,51 @@
+﻿Proc Format;
+value $PSTILL_KODETEKST_V4_T
+'01'='Arbejsgiver på orlov'                            /* Start 1994 */
+'02'='Momsbetaler på orlov'                            /* Start 1994 */
+'03'='Arbejdsløshedsforsikret selvstændig på orlov'    /* Start 1994 */
+'04'='Årsafgrænset selvstændig på orlov'               /* Start 1994 */
+'05'='Medhjælpende ægtefælle på orlov'                 /* Start 1994 */
+'11'='Arbejdsgiver'                                    /* Start 1980 */
+'12'='Momsbetaler'                                     /* Start 1980 */
+'13'='Arbejdsløshedsforsikret selvstændig'             /* Start 1980 */
+'14'='Årsafgrænset selvstændig'                        /* Start 1980 */
+'19'='Anden selvstænidg (uden ansatte)'                /* Start 1980 */
+'20'='Medhjælpende ægtefælle'                          /* Start 1980 */
+'31'='Topledere'                                       /* Start 1996 */
+'32'='Lønmodtager på højeste niveau'                   /* Start 1996 */
+'34'='Lønmodtagere på mellemniveau'                    /* Start 1996 */
+'35'='Lønmodtagere på grundniveau'                     /* Start 1996 */
+'36'='Andre lønmodtagere'                              /* Start 1996 */
+'37'='Lønmodtager uden nærmere angivelse'              /* Start 1996 */
+'40'='Arbejdsløs (fuldt ledige i uge 48)'              /* Start 1980 */
+'41'='Orlov fra ledighed'                              /* Start 1994 */
+'42'='Barselsdagpenge'                                 /* Start 1997 */
+'43'='Sygedagpenge'                                    /* Start 1997 */
+'45'='Beskæftiget uden løn'                            /* Start 1997 */
+'46'='Uddannelsesforstaltning'                         /* Start 1997 */
+'47'='Særlig aktivering'                               /* Start 1997   Slut 2006 */
+'48'='Uoplyst aktivering'                              /* Start 1997 */
+'49'='Revalidering'                                    /* Start 1997 */
+'50'='Efterlønsmodtager'                               /* Start 1980 */
+'51'='Aktivering (ifølge kontaknthjælpsregisteret)'    /* Start 2002 */
+'52'='Ledighedsydelse'                                 /* Start 2002 */
+'55'='Overgangsydelse'                                 /* Start 1993   Slut 2006 */
+'56'='Flexydelse'                                      /* Start 2008 */
+'57'='Delvis ledighed'                                 /* Start 2008 */
+'71'='Topledere på orlov'                              /* Start 1996 */
+'72'='Lønmodtagere på højeste niveau på orlov'         /* Start 1996 */
+'74'='Lønmodtagere på mellemniveau på orlov'           /* Start 1996 */
+'75'='Lønmodtager på grundniveau på orlov'             /* Start 1996 */
+'76'='Andre lønmodtagere på orlov'                     /* Start 1996 */
+'77'='Lønmodtager uden nærmere angivelse på orlov'     /* Start 1994 */
+'90'='Øvrige uden for arbejdsstyrken'                  /* Start 1980 */
+'91'='Under uddannelse'                                /* Start 1980 */
+'92'='Folkepension'                                    /* Start 1997 */
+'93'='Førtidspension'                                  /* Start 1997 */
+'94'='Tjenestemandspension'                            /* Start 1997 */
+'95'='Kontanthjælp'                                    /* Start 1997 */
+'96'='Børn og unge'                                    /* Start 1997 */
+'97'='Introduktionsydelse til flygtninge'              /* Start 2001 */
+'98'='Introduktionsuddannelse'                         /* Start 2001 */
+;
+run;

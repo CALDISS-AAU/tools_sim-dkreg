@@ -1,0 +1,63 @@
+﻿Fra dato ... Til dato
+01-01-1994 31-12-3000 01 : Arbejsgiver på orlov
+01-01-1994 31-12-3000 02 : Momsbetaler på orlov
+01-01-1994 31-12-3000 03 : Arbejdsløshedsforsikret selvstændig på orlov
+01-01-1994 31-12-3000 04 : Årsafgrænset selvstændig på orlov
+01-01-1994 31-12-3000 05 : Medhjælpende ægtefælle på orlov
+01-01-1980 31-12-3000 11 : Arbejdsgiver
+01-01-1980 31-12-3000 12 : Momsbetaler
+01-01-1980 31-12-3000 13 : Arbejdsløshedsforsikret selvstændig
+01-01-1980 31-12-3000 14 : Årsafgrænset selvstændig
+01-01-1980 31-12-3000 19 : Anden selvstænidg (uden ansatte)
+01-01-1980 31-12-3000 20 : Medhjælpende ægtefælle
+01-01-1980 31-12-1995 31 : Direktør
+01-01-1996 31-12-3000 31 : Topledere
+01-01-1980 31-12-1995 32 : Overordnet funktionær
+01-01-1996 31-12-3000 32 : Lønmodtager på højeste niveau
+01-01-1980 31-12-1995 33 : Ledende funktionær
+01-01-1980 31-12-1995 34 : Funktionær i øvrigt
+01-01-1996 31-12-3000 34 : Lønmodtagere på mellemniveau
+01-01-1980 31-12-1995 35 : Faglært arbejder
+01-01-1996 31-12-3000 35 : Lønmodtagere på grundniveau
+01-01-1980 31-12-1995 36 : Ikke faglært arbejder
+01-01-1996 31-12-3000 36 : Andre lønmodtagere
+01-01-1980 31-12-1995 37 : Beskæftigede lønmodtagere uden nærmere angivelse
+01-01-1996 31-12-3000 37 : Lønmodtager uden nærmere angivelse
+01-01-1980 31-12-3000 40 : Arbejdsløs (fuldt ledige i uge 48)
+01-01-1994 31-12-3000 41 : Orlov fra ledighed
+01-01-1997 31-12-3000 42 : Barselsdagpenge
+01-01-1997 31-12-3000 43 : Sygedagpenge
+01-01-1997 31-12-3000 45 : Beskæftiget uden løn
+01-01-1997 31-12-3000 46 : Uddannelsesforstaltning
+01-01-1997 31-12-2006 47 : Særlig aktivering
+01-01-1997 31-12-3000 48 : Uoplyst aktivering
+01-01-1997 31-12-3000 49 : Revalidering
+01-01-1980 31-12-3000 50 : Efterlønsmodtager
+01-01-2002 31-12-3000 51 : Aktivering (ifølge kontaknthjælpsregisteret)
+01-01-2002 31-12-3000 52 : Ledighedsydelse
+01-01-1993 31-12-2006 55 : Overgangsydelse
+01-01-2008 31-12-3000 56 : Flexydelse
+01-01-2008 31-12-3000 57 : Delvis ledighed
+01-01-1994 31-12-1995 71 : Direktør på orlov
+01-01-1996 31-12-3000 71 : Topledere på orlov
+01-01-1994 31-12-1995 72 : Overordnet funktionær på orlov
+01-01-1996 31-12-3000 72 : Lønmodtagere på højeste niveau på orlov
+01-01-1994 31-12-1995 73 : Ledende funktionær på orlov
+01-01-1994 31-12-1995 74 : Funktionær i øvrigt på orlov
+01-01-1996 31-12-3000 74 : Lønmodtagere på mellemniveau på orlov
+01-01-1994 31-12-1995 75 : Faglært arbejder på orlov
+01-01-1996 31-12-3000 75 : Lønmodtager på grundniveau på orlov
+01-01-1994 31-12-1995 76 : Ikke faglært arbejder på orlov
+01-01-1996 31-12-3000 76 : Andre lønmodtagere på orlov
+01-01-1994 31-12-3000 77 : Lønmodtager uden nærmere angivelse på orlov
+01-01-1980 31-12-3000 90 : Øvrige uden for arbejdsstyrken
+01-01-1980 31-12-3000 91 : Under uddannelse
+01-01-1980 31-12-1996 92 : Pensionist (off. pension)
+01-01-1997 31-12-3000 92 : Folkepension
+01-01-1997 31-12-3000 93 : Førtidspension
+01-01-1997 31-12-3000 94 : Tjenestemandspension
+01-01-1997 31-12-3000 95 : Kontanthjælp
+01-01-1997 31-12-3000 96 : Børn og unge
+01-01-2000 31-12-2000 97 : Introduktionsydelse til flygtninge (kontanthjælp) og aktivering
+01-01-2001 31-12-3000 97 : Introduktionsydelse til flygtninge
+01-01-2001 31-12-3000 98 : Introduktionsuddannelse
