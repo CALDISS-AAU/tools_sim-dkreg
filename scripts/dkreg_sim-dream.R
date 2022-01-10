@@ -98,10 +98,10 @@ colnames(dream_branch) <- branch_months
 
 
 #filter pnr - gøres til sidst#
-dream_branch$PNR <- base::sample(BEF_2015$PNR, length(BEF_2015$PNR), replace = TRUE)
+dream_branch$PNR <- BEF_2015$PNR
 dream_branch <- dream_branch[, c('PNR', branch_months)]
 
-#remove random pnr - gøres til sidst#
+#remove random observations - gøres til sidst#
 for (i in 2:length(dream_branch)) {
   row_ind <- base::sample(c(1:12447), floor(0.1 * 12447), replace = FALSE)
   dream_branch[row_ind, i] <- NA
@@ -114,9 +114,10 @@ label(dream_branch) <- 'DREAM_sim_2015'
 #Gem DREAM datasæt#
 setwd(save_path)
 
-write.xport(dream_branch, file = paste0("DREAM_sim_2015", ".xpt"))
-write_csv(dream_branch, path = paste0('DREAM_sim_2015', '.csv'))
-write_dta(dream_branch, "dream_sim_2015.dta")
+write.xport(dream_branch, file = file.path(data_outpath, 'DREAM_sim_2015.xpt'))
+write_dta(dream_branch, path = file.path(data_outpath, 'dream_sim_2015.dta'))
+dream_branch[is.na(dream_branch)] <- "."
+write_csv(dream_branch, file = file.path(data_outpath, 'dream_sim_2015.csv'))
 
 
 ##DREAM##
@@ -133,11 +134,7 @@ dream_val <- dreamprobs_df$ycode
 dream_prob <- dreamprobs_df$prob
 
 # Indlæs eksisterende PNR
-datap <- file.path("D:", "OneDrive", "OneDrive - Aalborg Universitet", 
-                   "CALDISS_projects", "reg_sim", "simdata", "simuleret data",
-                   "stata", sep = "/")
-
-dream_df <- read_dta(file.path(datap, "dream_sim_2015.dta"))
+dream_df <- read_dta(file.path(data_outpath, "dream_sim_2015.dta"))
 
 # Dan sekvenser
 dream_y <- data.frame(seqgen(length(dream_df$PNR), length(dream_weeks), dream_val, dream_prob))
@@ -146,4 +143,6 @@ dream_y$PNR <- dream_df$PNR
 dream_y <- select(dream_y, PNR, everything())
 
 # Gem data
-write_sas(dream_y, file.path(data_outpath, "dream_sim_y_97-15.sas7bdat"))
+write_sas(dream_y, file.path(data_outpath, "dream_sim_y_9715.sas7bdat")) # Virker ikke
+dream_y[is.na(dream_y)] <- "."
+write_csv(dream_y, file.path(data_outpath, "dream_sim_y_9715.csv"))
